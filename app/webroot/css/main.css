@@ -1,0 +1,9 @@
+.activeList {
+    background-color: #62a8ea !important;
+    background-color: transparent !important;
+    border: medium none !important;
+    color: #62a8ea !important; 
+}
+.activeList  > .icon {
+    color: #62a8ea !important;
+}

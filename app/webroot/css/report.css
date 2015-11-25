@@ -1,0 +1,144 @@
+@media print{
+    /*@font-face {
+            font-family: 'Titillium';
+        src: url("../css/Titillium/Titillium-Regular.otf");
+        font-weight: normal;
+        font-style: normal;
+    }
+    @import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
+    
+    body{
+            font-family: 'Titillium', sans-serif;
+            font-size: 10pt;
+            }*/
+    h1{
+        margin: 20pt auto 10pt;
+        font-size: 25pt;
+    }
+
+    /*header{
+            border-bottom: 2pt solid #0B80AE; #E6E7E8;
+            height: 194pt;
+    }
+    header .top-row{
+            border-bottom: 5pt solid #E6E7E8;
+    }
+    header .logo-span{
+            background:url("../images/slash-bg.png") no-repeat right !important;
+            overflow: hidden;
+    }
+    header .logo-span img{
+            height: 25pt;
+            margin: 5pt;
+    }
+    header .print-type{
+            background:#fff !important;
+            font-size: 18pt;
+            line-height: 25pt;
+    }
+    header .print-type img{
+            margin: 0 10pt;
+            height: 20pt;
+    }*/
+    .splashy-arrow_medium_down {background-position: 0 -481px !important;}
+    .splashy-arrow_medium_up_red {background-position: -63px -1570px !important;}
+    .splashy-arrow_medium_back {background-position: -62px -1628px !important;}
+    .splashy-arrow_medium_out {background-position: -61px -1607px !important;}
+    .blue-info{
+        color: #0B80AE !important;
+    }
+    .dl-horizontal{
+        margin-top:0 !important; 
+        margin-bottom: 5pt !important;
+    }
+    .dl-horizontal>tbody>tr>td {
+        padding: 0;
+        line-height: 1.5;
+        border-top: none;
+        font-size: 8pt;
+    }
+    .dl-horizontal>tbody>tr>td:nth-child(2){
+        width: 35%;
+        padding-left: 5%;
+    }
+    .dl-horizontal>tbody>tr>td:nth-child(1){
+        width: 60%;
+    }
+    /*.slash-black{
+            background:url("../images/slash-black-bg.png") no-repeat right !important;
+            background-size:100%;
+            overflow: hidden;
+            height: 35pt;
+    }*/
+    .paging{
+        line-height: 30pt;
+        color: #fff !important;
+        text-align: center;
+        background:url("../images/slash-black-bg.png") no-repeat left !important;
+    } 
+
+    .content{
+        height: 355pt;
+        overflow: hidden;
+    }
+    .table{
+        margin-top: 10pt;
+        border: 3pt solid #fff !important;
+    }
+    .table-bordered>tbody>tr{
+        page-break-inside:avoid
+    }
+    .table-bordered>tbody>tr>td{
+        border: 3pt solid #fff !important;
+        background-color: #E6E7E8 !important;
+        /*text-align: center;*/
+    }
+    .table-bordered>tbody>tr .red{
+        background: red !important;
+        /*text-align: center;*/
+    }
+    .table-bordered>tbody>tr>td.text-left{
+        text-align: left;
+    }
+    .table-bordered>thead>tr>th{
+        border: 3pt solid #fff !important;
+        /*background: #fff !important;*/
+        font-size: 9.5pt;
+    }
+    th.sorting_asc, th.sorting_desc{
+        background-color: #fff !important;
+    }
+
+    .notes p{
+        padding: 0 30pt;
+        line-height: 1.5;
+        color: #999 !important;
+        height: 40pt;
+        overflow: hidden;
+    }
+    footer .bottom-foot{
+        border-top: 2pt solid #000;
+        font-size: 8pt;
+        line-height: 20pt;
+        margin-top: 20pt;
+        text-align: center;
+        color: #0B80AE !important;
+    }
+    .table-bordered > tbody > tr > td.group{
+        background: #ddd !important;
+        padding-top: 3px !important;
+        padding-bottom: 3px !important;
+    }}
+
+button.DTTT_button, div.DTTT_button, a.DTTT_button {
+    color:#0088CC !important;
+    border: none !important;
+    background: none !important;
+    box-shadow: none !important;
+}
+
+div.DTTT_container {
+    float: left;
+    color: #333333 !important;
+    font-size: 12px;
+}

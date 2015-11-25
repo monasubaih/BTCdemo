@@ -1,0 +1,6623 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: alheba\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-05 11:23+0200\n"
+"PO-Revision-Date: 2014-01-05 11:24+0200\n"
+"Last-Translator: a <a>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _tr\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\PSClient\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\elidClient\n"
+
+#: C:\wamp\www\elidClient/controller/accountsController.php:50
+msgid "Financial Accounts"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/accountsController.php:60
+#, fuzzy
+msgid "Vouchers"
+msgstr "View Categories"
+
+#: C:\wamp\www\elidClient/controller/accountsController.php:85
+msgid "Financial Transactions"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/configurationController.php:61
+msgid "Control Countries"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/configurationController.php:76
+msgid "Control Employees"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/configurationController.php:93
+msgid "Currencies Control"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/configurationController.php:102
+msgid "Definitions Control"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/configurationController.php:112
+#, fuzzy
+msgid "System Settings"
+msgstr "System Status"
+
+#: C:\wamp\www\elidClient/controller/configurationController.php:122
+#: C:\wamp\www\elidClient/controller/storesController.php:78
+#, fuzzy
+msgid "View Employees"
+msgstr "View News"
+
+#: C:\wamp\www\elidClient/controller/customerController.php:52
+#, fuzzy
+msgid "View Customers"
+msgstr "Edit Customers"
+
+#: C:\wamp\www\elidClient/controller/customerController.php:67
+#, fuzzy
+msgid "add / Edit Customers Transactions"
+msgstr "Edit Careers"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:55
+msgid "Getting started "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:60
+msgid "Dashboard "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:65
+#, fuzzy
+msgid "Control Settings "
+msgstr "Control"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:70
+msgid "Change login info"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:75
+#, fuzzy
+msgid "Change user info"
+msgstr "Update User Info"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:80
+msgid "Send a message to an employee "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:85
+msgid "Mailbox "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:90
+#, fuzzy
+msgid "Notifications "
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:95
+#, fuzzy
+msgid "Manual"
+msgstr "Mail List"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:101
+#, fuzzy
+msgid "Add countries/cities "
+msgstr "Add Categories"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:106
+#, fuzzy
+msgid "Edit a country/city "
+msgstr "Add Category"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:111
+msgid "Delete a country/city "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:116
+#, fuzzy
+msgid "Countries Filter results"
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:149
+#, fuzzy
+msgid "Add new definition "
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:154
+#, fuzzy
+msgid "Edit a definition "
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:159
+#, fuzzy
+msgid "Delete a definition "
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:164
+#, fuzzy
+msgid "Definition Filter results "
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:170
+#, fuzzy
+msgid "Add new role "
+msgstr "Add Product"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:175
+msgid "Edit a role "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:180
+#, fuzzy
+msgid "Delete a role "
+msgstr "Delete"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:185
+#, fuzzy
+msgid "Filter roles results"
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:191
+#, fuzzy
+msgid "Add new employee "
+msgstr "View News"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:196
+#, fuzzy
+msgid "Edit a employee "
+msgstr "View News"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:201
+msgid "Delete a employee "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:206
+msgid "Active/Inactive a employee "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:216
+#, fuzzy
+msgid "Employees Filter results"
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:222
+msgid "Add new store"
+msgstr "Add new warehouse"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:227
+msgid "Edit a store "
+msgstr "Edit a warehouse"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:232
+msgid "Delete a store "
+msgstr "Delete a warehouse"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:237
+msgid "Store Filter results "
+msgstr "Warehouse Filter results "
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:243
+#, fuzzy
+msgid "Add new category"
+msgstr "Add Category"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:248
+#, fuzzy
+msgid "Edit a category"
+msgstr "Add Category"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:253
+#, fuzzy
+msgid "Delete a category "
+msgstr "Update Category"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:258
+#, fuzzy
+msgid "Category Filter results "
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:264
+msgid "Add new model"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:269
+msgid "Edit a model "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:274
+msgid "Delete a model "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:279
+#, fuzzy
+msgid "Model Filter results "
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:285
+#, fuzzy
+msgid "manage brand"
+msgstr "manager name"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:291
+#, fuzzy
+msgid "manage model properties"
+msgstr "View Categories"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:297
+#, fuzzy
+msgid "Add new product"
+msgstr "Add Product"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:302
+#, fuzzy
+msgid "Edit a product "
+msgstr "Add Product"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:307
+msgid "Delete a product "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:312
+#, fuzzy
+msgid "Product Filter results "
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:318
+#, fuzzy
+msgid "Import items"
+msgstr "post"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:323
+#, fuzzy
+msgid "Export items"
+msgstr "Start Date"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:328
+#, fuzzy
+msgid "Exchange items"
+msgstr "Manage Lists"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:333
+#, fuzzy
+msgid "Update an item"
+msgstr "Update News"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:338
+#, fuzzy
+msgid "View item's transactions"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:343
+#, fuzzy
+msgid "Terminate an item "
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:348
+#, fuzzy
+msgid "Items Filter results "
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:368
+msgid "Terminate  Store/Category "
+msgstr "Terminate Warehouse/Category "
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:373
+#, fuzzy
+msgid "Transaction Filter results "
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:379
+#, fuzzy
+msgid "Add new customer "
+msgstr "Manage Customers"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:384
+#, fuzzy
+msgid "Edit a customer "
+msgstr "Edit Customers"
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:389
+msgid "Delete a customer "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:394
+msgid "Active/Inactive a customer "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/helpCenterController.php:399
+#, fuzzy
+msgid "Filter customers results"
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/controller/indexController.php:59
+msgid "Error Page - 404"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/indexController.php:63
+#, fuzzy
+msgid "Welcome in E-Lid"
+msgstr "Welcome"
+
+#: C:\wamp\www\elidClient/controller/indexController.php:119
+#: C:\wamp\www\elidClient/controller/indexController.php:141
+#, fuzzy
+msgid "Welcome in mailbox"
+msgstr "Welcome"
+
+#: C:\wamp\www\elidClient/controller/indexController.php:148
+#: C:\wamp\www\elidClient/core/constantResources.php:538
+msgid "inbox"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/indexController.php:156
+#, fuzzy
+msgid "message"
+msgstr "Message"
+
+#: C:\wamp\www\elidClient/controller/indexController.php:176
+#, fuzzy
+msgid "System Notifications"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/controller/indexController.php:188
+msgid "Report New Issue"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/indexController.php:252
+msgid "Thank You , your issue was added successfully with id ("
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/indexController.php:255
+msgid "Sorry ! Malfunction occurs when try to add an issue, Please verify inputs"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/indexController.php:259
+msgid "error in validate data , please verify input"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/indexController.php:301
+#, fuzzy
+msgid "Image was successfully uploaded"
+msgstr "Pictures Was Successfully Uploaded"
+
+#: C:\wamp\www\elidClient/controller/indexController.php:305
+msgid "Sorry ! Malfunction occurs when try to upload image , Please verify inputs"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/reportController.php:49
+#, fuzzy
+msgid "Order Transaction "
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/controller/reportController.php:55
+#: C:\wamp\www\elidClient/controller/reportController.php:88
+#, fuzzy
+msgid "Items Number"
+msgstr "Name"
+
+#: C:\wamp\www\elidClient/controller/reportController.php:82
+msgid "Import and Export Transaction "
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/reportController.php:263
+#: C:\wamp\www\elidClient/controller/reportController.php:301
+#: C:\wamp\www\elidClient/controller/reportController.php:341
+msgid "Sorry ! Malfunction occurs when try to create charts , Please verify inputs"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/reportController.php:266
+#: C:\wamp\www\elidClient/controller/reportController.php:304
+#: C:\wamp\www\elidClient/controller/reportController.php:344
+#, fuzzy
+msgid "chart was successfully created"
+msgstr "Categories Successfully Updated"
+
+#: C:\wamp\www\elidClient/controller/reportController.php:268
+#: C:\wamp\www\elidClient/controller/reportController.php:308
+#: C:\wamp\www\elidClient/controller/reportController.php:346
+msgid "validation error , please verify inputs"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/storesController.php:51
+msgid "Add Edit Stores"
+msgstr "Add Edit Warehouse"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:67
+msgid "View Stores"
+msgstr "View Warehouse"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:89
+#, fuzzy
+msgid "Add Edit Category"
+msgstr "Add Category"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:103
+msgid "View Categories"
+msgstr "View Categories"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:113
+msgid "Add Edit Models"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/storesController.php:131
+#, fuzzy
+msgid "View Models"
+msgstr "View News"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:147
+#, fuzzy
+msgid "View Properties"
+msgstr "View Categories"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:163
+#, fuzzy
+msgid "View Models Details"
+msgstr "View Albums"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:176
+#, fuzzy
+msgid "Add Properties"
+msgstr "Add Products"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:190
+#, fuzzy
+msgid "Control Brand"
+msgstr "Control"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:219
+msgid "Products"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:233
+#, fuzzy
+msgid "Add/Edit Products"
+msgstr "Add Product"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:252
+#, fuzzy
+msgid "Product Properties"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:265
+#, fuzzy
+msgid "Transactions"
+msgstr "Actions"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:280
+msgid "Transactions Details"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/storesController.php:299
+#, fuzzy
+msgid "Items"
+msgstr "Ideas"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:318
+#, fuzzy
+msgid "Update Item"
+msgstr "Update News"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:334
+#, fuzzy
+msgid "Termination"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:357
+msgid "Import to stores"
+msgstr "Import to Warehouses"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:434
+msgid "export to stores"
+msgstr "export to Warehouses"
+
+#: C:\wamp\www\elidClient/controller/storesController.php:494
+msgid "exchange between stores"
+msgstr "exchange between Warehouses"
+
+#: C:\wamp\www\elidClient/controller/usersController.php:73
+#, fuzzy
+msgid "update role"
+msgstr "update"
+
+#: C:\wamp\www\elidClient/controller/usersController.php:73
+#, fuzzy
+msgid "Add new role"
+msgstr "Add Product"
+
+#: C:\wamp\www\elidClient/controller/usersController.php:83
+msgid "roles"
+msgstr ""
+
+#: C:\wamp\www\elidClient/controller/usersController.php:93
+#, fuzzy
+msgid "Edit User info"
+msgstr "Update User Info"
+
+#: C:\wamp\www\elidClient/controller/usersController.php:113
+msgid "User's Access Info"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:18
+msgid "Tax Typs"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:19
+msgid "Stage lead"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:20
+#, fuzzy
+msgid "Strength lead"
+msgstr "Status"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:21
+msgid "Source lead"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:22
+#, fuzzy
+msgid "Task Level"
+msgstr "Level"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:23
+msgid "Store Types"
+msgstr "Warehouses Types"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:24
+#, fuzzy
+msgid "Category Types"
+msgstr "Categories"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:25
+#, fuzzy
+msgid "Product Types"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:26
+#, fuzzy
+msgid "Product Unit"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:27
+msgid "Messages Priority"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:28
+#, fuzzy
+msgid "Messages Classes"
+msgstr "Manage Careers"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:30
+msgid "Active"
+msgstr "Active"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:30
+msgid "In Active"
+msgstr "In Active"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:31
+msgid "Yes"
+msgstr "Yes"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:31
+msgid "No"
+msgstr "No"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:80
+#, fuzzy
+msgid "Search ->"
+msgstr "Development Idea Type"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:85
+#: C:\wamp\www\elidClient/core/constantResources.php:88
+msgid "Stores"
+msgstr "Warehouses"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:91
+msgid "control Stores"
+msgstr "Control Warehouses"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:101
+msgid "view Stores"
+msgstr "View Warehouse"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:108
+msgid "Stores Categories"
+msgstr "Warehouses Categories"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:111
+#, fuzzy
+msgid "control Categories"
+msgstr "Add Categories"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:121
+#, fuzzy
+msgid "view Categories"
+msgstr "View Categories"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:128
+msgid "Models"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:131
+#, fuzzy
+msgid "control Models"
+msgstr "Control"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:141
+#, fuzzy
+msgid "view Models"
+msgstr "View News"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:148
+#, fuzzy
+msgid "Model Products"
+msgstr "Update Products"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:151
+#, fuzzy
+msgid "control Product"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:161
+#, fuzzy
+msgid "view Products"
+msgstr "View Products"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:168
+#, fuzzy
+msgid "Product Items"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:171
+#, fuzzy
+msgid "control Item"
+msgstr "Control"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:182
+#, fuzzy
+msgid "View items"
+msgstr "View Albums"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:189
+msgid "Control Stores Transactions"
+msgstr "Control Warehouses Transactions"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:193
+#, fuzzy
+msgid "termission Transaction"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:198
+#, fuzzy
+msgid "export Transaction"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:203
+#, fuzzy
+msgid "exchange Transaction"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:208
+#, fuzzy
+msgid "import Transaction"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:227
+#, fuzzy
+msgid "view Transactions"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:237
+#, fuzzy
+msgid "Accounts"
+msgstr "About"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:241
+msgid "Sales"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:244
+msgid "Purchase Order"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:246
+msgid "add purchase order"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:247
+msgid "add bill"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:248
+msgid "order store transactions"
+msgstr "order Warehouse transactions"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:249
+#, fuzzy
+msgid "update purchase order"
+msgstr "update password"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:253
+msgid "backOrders"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:255
+msgid "add back order"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:256
+#, fuzzy
+msgid "update back order"
+msgstr "update password"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:262
+msgid "Marketing"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:264
+#, fuzzy
+msgid "Customer Service"
+msgstr "View Categories"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:266
+#, fuzzy
+msgid "Management"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:269
+#, fuzzy
+msgid "Admin"
+msgstr "Admin -"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:270
+#, fuzzy
+msgid "User"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:273
+#, fuzzy
+msgid "Manager"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:274
+msgid "Employee"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:277
+msgid "Afghanistan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:278
+msgid "Åland Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:279
+msgid "Albania"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:280
+msgid "Algeria"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:281
+msgid "American Samoa"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:282
+msgid "Andorra"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:283
+msgid "Angola"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:284
+msgid "Anguilla"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:285
+msgid "Antarctica"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:286
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:287
+msgid "Argentina"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:288
+msgid "Armenia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:289
+msgid "Aruba"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:290
+msgid "Ascension Island"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:291
+msgid "Australia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:292
+msgid "Austria"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:293
+msgid "Azerbaijan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:294
+msgid "Bahamas"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:295
+msgid "Bahrain"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:296
+msgid "Bangladesh"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:297
+msgid "Barbados"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:298
+msgid "Belarus"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:299
+#, fuzzy
+msgid "Belgium"
+msgstr "Medium"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:300
+msgid "Belize"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:301
+msgid "Benin"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:302
+msgid "Bermuda"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:303
+msgid "Bhutan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:304
+msgid "Bolivia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:305
+msgid "Bonaire), Sint Eustatius), and Saba"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:306
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:307
+msgid "Botswana"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:308
+msgid "Bouvet Island"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:309
+msgid "Brazil"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:310
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:311
+msgid "British Virgin Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:312
+msgid "Brunei"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:313
+msgid "Bulgaria"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:314
+msgid "Burkina Faso"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:315
+msgid "Burundi"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:316
+msgid "Cambodia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:317
+msgid "Cameroon"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:318
+msgid "Canada"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:319
+msgid "Canary Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:320
+msgid "Cape Verde"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:321
+msgid "Cayman Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:322
+msgid "Central African Republic"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:323
+msgid "Ceuta and Melilla"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:324
+msgid "Chad"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:325
+#, fuzzy
+msgid "Chile"
+msgstr "Title"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:326
+msgid "China"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:327
+msgid "Christmas Island"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:328
+msgid "Clipperton Island"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:329
+msgid "Cocos [Keeling] Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:330
+msgid "Colombia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:331
+#, fuzzy
+msgid "Comoros"
+msgstr "Course"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:332
+msgid "Congo - Brazzaville"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:333
+msgid "Congo - Kinshasa"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:334
+msgid "Cook Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:335
+msgid "Costa Rica"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:336
+msgid "Côte d’Ivoire"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:337
+msgid "Croatia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:338
+msgid "Cuba"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:339
+msgid "Curaçao"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:340
+msgid "Cyprus"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:341
+msgid "Czech Republic"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:342
+msgid "Denmark"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:343
+msgid "Diego Garcia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:344
+msgid "Djibouti"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:345
+msgid "Dominica"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:346
+msgid "Dominican Republic"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:347
+msgid "Ecuador"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:348
+msgid "Egypt"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:349
+msgid "El Salvador"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:350
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:351
+#, fuzzy
+msgid "Eritrea"
+msgstr "Edit Idea"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:352
+msgid "Estonia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:353
+msgid "Ethiopia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:354
+msgid "European Union"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:355
+msgid "Falkland Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:356
+msgid "Faroe Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:357
+msgid "Fiji"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:358
+msgid "Finland"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:359
+#, fuzzy
+msgid "France"
+msgstr "Cancel"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:360
+msgid "French Guiana"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:361
+msgid "French Polynesia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:362
+msgid "French Southern Territories"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:363
+msgid "Gabon"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:364
+msgid "Gambia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:365
+msgid "Georgia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:366
+msgid "Germany"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:367
+msgid "Ghana"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:368
+msgid "Gibraltar"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:369
+msgid "Greece"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:370
+msgid "Greenland"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:371
+msgid "Grenada"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:372
+msgid "Guadeloupe"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:373
+msgid "Guam"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:374
+msgid "Guatemala"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:375
+msgid "Guernsey"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:376
+msgid "Guinea"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:377
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:378
+msgid "Guyana"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:379
+msgid "Haiti"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:380
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:381
+msgid "Honduras"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:382
+msgid "Hong Kong SAR China"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:383
+#, fuzzy
+msgid "Hungary"
+msgstr "Summary"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:384
+#, fuzzy
+msgid "Iceland"
+msgstr "IdeaFund"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:385
+#, fuzzy
+msgid "India"
+msgstr "Ideas"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:386
+msgid "Indonesia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:387
+msgid "Iran"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:388
+msgid "Iraq"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:389
+#, fuzzy
+msgid "Ireland"
+msgstr "IdeaFund"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:390
+msgid "Isle of Man"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:391
+#, fuzzy
+msgid "Israel"
+msgstr "save"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:392
+msgid "Italy"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:393
+msgid "Jamaica"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:394
+msgid "Japan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:395
+msgid "Jersey"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:396
+msgid "Jordan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:397
+msgid "Kazakhstan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:398
+msgid "Kenya"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:399
+msgid "Kiribati"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:400
+#, fuzzy
+msgid "Kuwait"
+msgstr "Quailty"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:401
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:402
+#, fuzzy
+msgid "Laos"
+msgstr "Lowest"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:403
+msgid "Latvia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:404
+msgid "Lebanon"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:405
+#, fuzzy
+msgid "Lesotho"
+msgstr "Lowest"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:406
+msgid "Liberia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:407
+msgid "Libya"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:408
+msgid "Liechtenstein"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:409
+msgid "Lithuania"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:410
+msgid "Luxembourg"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:411
+msgid "Macau SAR China"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:412
+msgid "Macedonia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:413
+msgid "Madagascar"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:414
+msgid "Malawi"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:415
+msgid "Malaysia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:416
+msgid "Maldives"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:417
+#, fuzzy
+msgid "Mali"
+msgstr "Mail List"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:418
+msgid "Malta"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:419
+msgid "Marshall Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:420
+msgid "Martinique"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:421
+msgid "Mauritania"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:422
+msgid "Mauritius"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:423
+msgid "Mayotte"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:424
+msgid "Mexico"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:425
+msgid "Micronesia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:426
+#, fuzzy
+msgid "Moldova"
+msgstr "Monday"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:427
+#, fuzzy
+msgid "Monaco"
+msgstr "Monday"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:428
+msgid "Mongolia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:429
+msgid "Montenegro"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:430
+msgid "Montserrat"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:431
+msgid "Morocco"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:432
+#, fuzzy
+msgid "Mozambique"
+msgstr "Male"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:433
+msgid "Myanmar [Burma]"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:434
+msgid "Namibia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:435
+msgid "Nauru"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:436
+msgid "Nepal"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:437
+msgid "Netherlands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:438
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:439
+msgid "New Caledonia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:440
+msgid "New Zealand"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:441
+msgid "Nicaragua"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:442
+#, fuzzy
+msgid "Niger"
+msgstr "image"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:443
+msgid "Nigeria"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:444
+msgid "Niue"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:445
+msgid "Norfolk Island"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:446
+msgid "North Korea"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:447
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:448
+msgid "Norway"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:449
+msgid "Oman"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:450
+msgid "Outlying Oceania"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:451
+msgid "Pakistan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:452
+#, fuzzy
+msgid "Palau"
+msgstr "Place"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:453
+msgid "Palestinian Territories"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:454
+#, fuzzy
+msgid "Panama"
+msgstr "name"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:455
+msgid "Papua New Guinea"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:456
+msgid "Paraguay"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:457
+msgid "Peru"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:458
+msgid "Philippines"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:459
+msgid "Pitcairn Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:460
+msgid "Poland"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:461
+msgid "Portugal"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:462
+#, fuzzy
+msgid "Puerto Rico"
+msgstr "Portfolio"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:463
+msgid "Qatar"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:464
+msgid "Réunion"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:465
+msgid "Romania"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:466
+msgid "Russia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:467
+msgid "Rwanda"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:468
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:469
+msgid "Saint Helena"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:470
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:471
+msgid "Saint Lucia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:472
+msgid "Saint Martin"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:473
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:474
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:475
+msgid "Samoa"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:476
+msgid "San Marino"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:477
+msgid "São Tomé and Príncipe"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:478
+msgid "Saudi Arabia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:479
+msgid "Senegal"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:480
+#, fuzzy
+msgid "Serbia"
+msgstr "Service"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:481
+msgid "Serbia and Montenegro"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:482
+msgid "Seychelles"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:483
+msgid "Sierra Leone"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:484
+msgid "Singapore"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:485
+#, fuzzy
+msgid "Sint Maarten"
+msgstr "Status"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:486
+msgid "Slovakia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:487
+msgid "Slovenia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:488
+msgid "Solomon Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:489
+#, fuzzy
+msgid "Somalia"
+msgstr "Social"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:490
+msgid "South Africa"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:491
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:492
+msgid "South Korea"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:493
+msgid "South Sudan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:494
+msgid "Spain"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:495
+msgid "Sri Lanka"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:496
+#, fuzzy
+msgid "Sudan"
+msgstr "Summary"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:497
+#, fuzzy
+msgid "Suriname"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:498
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:499
+msgid "Swaziland"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:500
+msgid "Sweden"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:501
+msgid "Switzerland"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:502
+msgid "Syria"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:503
+msgid "Taiwan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:504
+msgid "Tajikistan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:505
+msgid "Tanzania"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:506
+msgid "Thailand"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:507
+msgid "Timor-Leste"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:508
+#, fuzzy
+msgid "Togo"
+msgstr "Login"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:509
+#, fuzzy
+msgid "Tokelau"
+msgstr " Tel"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:510
+#, fuzzy
+msgid "Tonga"
+msgstr "Wrong"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:511
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:512
+msgid "Tristan da Cunha"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:513
+msgid "Tunisia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:514
+#, fuzzy
+msgid "Turkey"
+msgstr "Tuesday"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:515
+msgid "Turkmenistan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:516
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:517
+msgid "Tuvalu"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:518
+msgid "U.S. Minor Outlying Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:519
+msgid "U.S. Virgin Islands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:520
+msgid "Uganda"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:521
+msgid "Ukraine"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:522
+msgid "United Arab Emirates"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:523
+msgid "United Kingdom"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:524
+#, fuzzy
+msgid "United States"
+msgstr "System Status"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:525
+msgid "Uruguay"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:526
+msgid "Uzbekistan"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:527
+msgid "Vanuatu"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:528
+msgid "Vatican City"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:529
+msgid "Venezuela"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:530
+msgid "Vietnam"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:531
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:532
+msgid "Western Sahara"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:533
+msgid "Yemen"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:534
+msgid "Zambia"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:535
+#, fuzzy
+msgid "Zimbabwe"
+msgstr "image"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:539
+#, fuzzy
+msgid "sent"
+msgstr "send"
+
+#: C:\wamp\www\elidClient/core/constantResources.php:540
+msgid "trush"
+msgstr ""
+
+#: C:\wamp\www\elidClient/core/constantResources.php:541
+#, fuzzy
+msgid "notification"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:59
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:468
+#, fuzzy
+msgid "System Configurations"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:64
+#, fuzzy
+msgid "Configurations"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:68
+#, fuzzy
+msgid "Control Configurations"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:81
+msgid "Countries & Cities"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:85
+#, fuzzy
+msgid "Add/Edit Countries"
+msgstr "Add Categories"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:117
+#, fuzzy
+msgid "Definitions"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:121
+#, fuzzy
+msgid "Add/Edit Definitions"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:134
+msgid "Roles"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:138
+#, fuzzy
+msgid "Add/Edit Roles"
+msgstr "Add Categories"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:146
+#, fuzzy
+msgid "View Roles"
+msgstr "View Categories"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:159
+msgid "Employees"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:163
+msgid "Add/Edit Employees"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:200
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:550
+msgid "Control Stores"
+msgstr "Control Warehouses "
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:223
+msgid "Categories"
+msgstr "Categories"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:228
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:575
+#, fuzzy
+msgid "Control Categories"
+msgstr "Add Categories"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:256
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:600
+#, fuzzy
+msgid "Control Models"
+msgstr "Control"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:284
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:625
+#, fuzzy
+msgid "Control Products"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:293
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:632
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:642
+msgid "View Products"
+msgstr "View Products"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:312
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:650
+#, fuzzy
+msgid "View Items"
+msgstr "View Albums"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:331
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:666
+msgid "Add Import Transaction"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:340
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:682
+msgid "Add Export Transaction"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:349
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:698
+msgid "Add Exchange Transaction"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:358
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:714
+msgid "Termination Transaction"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:367
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:658
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:673
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:689
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:705
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:721
+#, fuzzy
+msgid "View Transactions"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:386
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:391
+#, fuzzy
+msgid "Customers"
+msgstr "Customer"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:395
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:738
+#, fuzzy
+msgid "Control Customers"
+msgstr "Control"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:484
+#, fuzzy
+msgid "Control Currency"
+msgstr "Control"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:492
+msgid "Control Definitions"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:507
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:517
+#, fuzzy
+msgid "view Employees"
+msgstr "view News"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:525
+#, fuzzy
+msgid "Control Roles"
+msgstr "Control"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:532
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:542
+#, fuzzy
+msgid "view Roles"
+msgstr "View Categories"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:730
+msgid "MailBox"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:775
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1679
+msgid "Home"
+msgstr "Home"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:786
+msgid "Help Center"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:804
+msgid "e-Lid Basics"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:811
+msgid "Getting started"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:819
+msgid "Dashboard"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:827
+#, fuzzy
+msgid "Control settings"
+msgstr "Control"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:851
+#, fuzzy
+msgid "Send a message"
+msgstr "Second Class"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:859
+msgid "Mailbox"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:867
+#, fuzzy
+msgid "Notifications"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:879
+#, fuzzy
+msgid "Countries Management"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:886
+#, fuzzy
+msgid "Add countries/cities"
+msgstr "Add Categories"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:894
+#, fuzzy
+msgid "Edit a country/city"
+msgstr "Add Category"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:902
+msgid "Delete a country/city"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:910
+#, fuzzy
+msgid "Filter countries"
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:988
+#, fuzzy
+msgid "Definitions Management"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:995
+#, fuzzy
+msgid "Add new definition"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1003
+#, fuzzy
+msgid "Edit a definition"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1011
+#, fuzzy
+msgid "Delete a definition"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1019
+#, fuzzy
+msgid "Filter definitions"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1031
+#, fuzzy
+msgid "Roles Management"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1046
+#, fuzzy
+msgid "Edit a role"
+msgstr "Edit Portfolios"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1054
+#, fuzzy
+msgid "Delete a role"
+msgstr "Delete"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1062
+#, fuzzy
+msgid "Filter roles"
+msgstr "Filter"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1074
+#, fuzzy
+msgid "Employees Management"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1081
+#, fuzzy
+msgid "Add new employee"
+msgstr "View News"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1089
+#, fuzzy
+msgid "Edit a employee"
+msgstr "View News"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1097
+msgid "Delete a employee"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1105
+msgid "Active/Inactive a employee"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1123
+#, fuzzy
+msgid "Filter employees"
+msgstr "View News"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1135
+msgid "Stores Management"
+msgstr "Warehouses  Management"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1150
+msgid "Edit a store"
+msgstr "Edit a warehouse"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1158
+msgid "Delete a store"
+msgstr "Delete a warehouses  "
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1166
+msgid "Filter stores"
+msgstr "Filter warehouses"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1178
+#, fuzzy
+msgid "Ctegories Management"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1201
+#, fuzzy
+msgid "Delete a category"
+msgstr "Update Category"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1209
+#, fuzzy
+msgid "Filter categories"
+msgstr "View Categories"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1221
+#, fuzzy
+msgid "Models Management"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1236
+#, fuzzy
+msgid "Brands Management"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1244
+#, fuzzy
+msgid "Properties Management"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1252
+msgid "Edit a model"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1260
+#, fuzzy
+msgid "Delete a model"
+msgstr "Delete"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1268
+#, fuzzy
+msgid "Filter models"
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1280
+#, fuzzy
+msgid "Products Management"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1295
+#, fuzzy
+msgid "Edit a product"
+msgstr "Add Product"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1303
+#, fuzzy
+msgid "Delete a product"
+msgstr "Update Products"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1311
+#, fuzzy
+msgid "Filter products"
+msgstr "View Products"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1323
+#, fuzzy
+msgid "Items Management"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1373
+#, fuzzy
+msgid "Terminate an item"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1381
+#, fuzzy
+msgid "Filter items"
+msgstr "Filter"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1393
+#, fuzzy
+msgid "Transactions Management"
+msgstr "Actions"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1400
+#, fuzzy
+msgid "Import Transactions"
+msgstr "Actions"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1408
+#, fuzzy
+msgid "Export Transactions"
+msgstr "Actions"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1416
+#, fuzzy
+msgid "Exchange Transactions"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1424
+msgid "Terminate store/category"
+msgstr "Terminate warehouse/category"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1432
+#, fuzzy
+msgid "Filter transactions"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1448
+#, fuzzy
+msgid "Customers Management"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1455
+#, fuzzy
+msgid "Add new customer"
+msgstr "Manage Customers"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1463
+#, fuzzy
+msgid "Edit a customer"
+msgstr "Edit Customers"
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1471
+msgid "Delete a customer"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1479
+msgid "Active/Inactive a customer"
+msgstr ""
+
+#: C:\wamp\www\elidClient/helper/cpanelLayout.php:1487
+#, fuzzy
+msgid "Filter customers"
+msgstr "Edit Customers"
+
+#: C:\wamp\www\elidClient/helper/drawer.php:107
+msgid "-- Select --"
+msgstr "-- Select --"
+
+#: C:\wamp\www\elidClient/helper/language.php:178
+msgid "Language"
+msgstr "Language"
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:26
+msgid "The uploaded file exceeds the system max upload size"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:27
+msgid "The uploaded file exceeds the form max upload size"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:28
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:29
+msgid "No file was uploaded"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:30
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:31
+msgid "Failed to write file"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:32
+msgid "A PHP extension stopped the file upload"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:33
+msgid "The uploaded file exceeds the post size"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:34
+msgid "File is too big"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:35
+msgid "File is too small"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:36
+msgid "Filetype not allowed"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:37
+msgid "Maximum number of files exceeded"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:38
+msgid "Image exceeds maximum width"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:39
+msgid "Image requires a minimum width"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:40
+msgid "Image exceeds maximum height"
+msgstr ""
+
+#: C:\wamp\www\elidClient/imports/uploadHandler.php:41
+msgid "Image requires a minimum height"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/addFinancialTransaction.php:8
+msgid "Add Financial Transaction"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/viewFinancialAccounts.php:9
+msgid "View Financial Accounts"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/viewVauchers.php:9
+#, fuzzy
+msgid "View Vouchers"
+msgstr "View Categories"
+
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:7
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:7
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:7
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:7
+#, fuzzy
+msgid "Filter Results"
+msgstr "no Result"
+
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:10
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:47
+msgid "Account Number"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:14
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:48
+msgid "Account Name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:18
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:49
+#, fuzzy
+msgid "Username"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:22
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:50
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:45
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:37
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:58
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:37
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:63
+msgid "Currency"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:27
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:51
+#, fuzzy
+msgid "Amount owed"
+msgstr "About"
+
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:31
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:52
+msgid "Status"
+msgstr "Status"
+
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:38
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:48
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:48
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:20
+#, fuzzy
+msgid "Clear Filters"
+msgstr "Filter"
+
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:46
+msgid "account ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:53
+msgid "Financial bonds"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialAccounts/grid.php:54
+#, fuzzy
+msgid "Deactivate"
+msgstr "active"
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/details.php:3
+msgid "Financial Transactions Details"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:5
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:60
+#, fuzzy
+msgid "Date"
+msgstr "Date"
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:7
+msgid "Select the financial transaction date from date picker"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:14
+msgid "Transaction date is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:22
+msgid "Exchange rate"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:24
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:36
+msgid "Numeric value."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:34
+#, fuzzy
+msgid "Amount"
+msgstr "About"
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:40
+msgid "Amount is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:47
+msgid "choose a pre-defined currency for the transaction"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:50
+msgid "Currency is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:61
+msgid "Notes"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:71
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:71
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:43
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:60
+#, fuzzy
+msgid "Save"
+msgstr "save"
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:74
+msgid "Save & Add Another"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/form.php:76
+msgid "Cancel"
+msgstr "Cancel"
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:10
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:10
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:57
+msgid "Vaucher Number"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:14
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:14
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:58
+#, fuzzy
+msgid "Vaucher Date"
+msgstr "Start Date"
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:18
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:18
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:59
+msgid "Vaucher Type"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:23
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:23
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:60
+msgid "Creditor Account"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:29
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:29
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:61
+msgid "Debit Account"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:33
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:33
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:62
+msgid "Vaucher Value"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:42
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:42
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:64
+msgid "Reminder"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:56
+msgid "Financial Transaction ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:57
+msgid "Transaction Number"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:59
+msgid "Value"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/financialTransactions/grid.php:61
+msgid "Details"
+msgstr "Details"
+
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:56
+msgid "Vaucher ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/accounts/vauchers/grid.php:66
+#, fuzzy
+msgid "Vaucher Details"
+msgstr "Details"
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:8
+msgid "System Status"
+msgstr "System Status"
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:8
+msgid "System Status: active or Inactive"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:12
+#, fuzzy
+msgid "System_Status is required"
+msgstr "System Status"
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:21
+#, fuzzy
+msgid "About US "
+msgstr "About Us"
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:22
+#, fuzzy
+msgid "About System"
+msgstr "About Us"
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:28
+msgid "About US is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:35
+#, fuzzy
+msgid "Contact Information"
+msgstr " Contact Info"
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:35
+msgid "contact with the system"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:40
+msgid "Contact Information is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:47
+#, fuzzy
+msgid "Notification System Configurations"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:49
+msgid "Notification By:"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:49
+msgid "choose the way for Notification in system"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/configurations/form.php:74
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:45
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:62
+msgid "Clear"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:7
+msgid "Add a country and it's cities"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:9
+#, fuzzy
+msgid "Add a country"
+msgstr "Add Category"
+
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:9
+msgid "Select a country from the list, you can search for it."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:12
+msgid "Choose a Country..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:12
+msgid "Country is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:13
+msgid "Show All"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:24
+msgid "Add country's cities"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:24
+msgid "Add cities one by one."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:27
+msgid "paris,makkah..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/form.php:30
+msgid "Add"
+msgstr "Add"
+
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:4
+msgid "Countries And Cities"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:10
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:31
+#, fuzzy
+msgid "Country"
+msgstr "Control"
+
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:11
+msgid "type country name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:14
+msgid "City"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:28
+msgid "ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:29
+msgid "Category"
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:32
+#, fuzzy
+msgid "Cities"
+msgstr "Categories"
+
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:46
+msgid "Advanced Filters"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:50
+msgid "Refresh"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/countries/grid.php:55
+msgid "Delete"
+msgstr "Delete"
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:9
+msgid "Add/Edit New Currancy"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:11
+msgid "Name"
+msgstr "Name"
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:13
+msgid "the name for the currency ex: dolar,euro ... etc"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:18
+msgid "dolar,euro..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:23
+#, fuzzy
+msgid "Code"
+msgstr "Course"
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:25
+msgid "short code for the currency ex: USD,EUR...etc"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:30
+msgid "USD,EUR..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:31
+#, fuzzy
+msgid "Sign"
+msgstr "login"
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:32
+msgid "sign for the currency ex: $,â‚¬ ... etc"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:35
+msgid "$,€‚£..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:41
+msgid "Exchange Value"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/form.php:43
+msgid "the exchange rate according to master currency"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/grid.php:5
+#, fuzzy
+msgid "System Currencies"
+msgstr "System Status"
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/grid.php:7
+msgid "Current Master Currency"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/grid.php:24
+msgid "USD,EURO..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/grid.php:41
+#, fuzzy
+msgid "Inactive"
+msgstr "active"
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/grid.php:48
+msgid "Master Currancy"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/grid.php:59
+msgid "Currency ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/grid.php:60
+msgid "Currency Is Master"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/currencies/grid.php:61
+#, fuzzy
+msgid "Currency Status"
+msgstr "Status"
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/form.php:7
+msgid "Add New Definition"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/form.php:13
+msgid "Choose one of the drop down list or you can add a new category."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/form.php:19
+#, fuzzy
+msgid "Category is required"
+msgstr "Categories"
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/form.php:44
+#: C:\wamp\www\elidClient/view/configuration/definitions/grid.php:10
+#: C:\wamp\www\elidClient/view/configuration/definitions/grid.php:32
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:135
+msgid "Title"
+msgstr "Title"
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/form.php:46
+msgid "The definition name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/form.php:52
+msgid "Title is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/form.php:53
+msgid "title,type relate to category"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/form.php:59
+#: C:\wamp\www\elidClient/view/configuration/definitions/grid.php:34
+#: C:\wamp\www\elidClient/view/elements/confirmationMsgForTermination.php:16
+msgid "Description"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/form.php:61
+msgid "Write a breif about the definition."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/form.php:67
+#, fuzzy
+msgid "Description is required"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/form.php:68
+msgid "breif about the definition"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/grid.php:4
+msgid "System Definitions"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/definitions/grid.php:11
+msgid "title,type..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:8
+msgid "Employees Control"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:11
+msgid "Employee Number"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:13
+msgid "enter employee number for update"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:19
+msgid "Valid Employee ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:27
+msgid "Employee Name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:29
+msgid "enter employee name for update"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:36
+msgid "Valid Employee Name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:47
+msgid "Get"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:49
+msgid "Clear All Inputs"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:59
+#, fuzzy
+msgid "Login Info"
+msgstr "Login"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:64
+#, fuzzy
+msgid "E-mail Login"
+msgstr "Admin Login"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:66
+#, fuzzy
+msgid "Enter a Valid email address."
+msgstr "write your email"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:70
+msgid "Valid Email is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:72
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:44
+msgid "employeeMail@domain"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:77
+#: C:\wamp\www\elidClient/view/configuration/users/login.php:27
+#, fuzzy
+msgid "Password"
+msgstr "password"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:79
+msgid "Type a strong password, min length is 6 characters"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:84
+msgid "min 6 alpha/digits chars"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:85
+#, fuzzy
+msgid "Password is required"
+msgstr "Passwords are not equal"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:93
+msgid "Confirm Password"
+msgstr "Confirm Password"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:95
+#, fuzzy
+msgid "Repeat your password."
+msgstr "update password"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:99
+#, fuzzy
+msgid "re write password"
+msgstr "Wrong Password"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:100
+msgid "Confirmation is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:109
+#, fuzzy
+msgid "User Level"
+msgstr "Level"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:111
+msgid "Select User Level"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:116
+#, fuzzy
+msgid "User Level is Required"
+msgstr "Categories"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:123
+#, fuzzy
+msgid "Administration"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:125
+msgid "The employee belongs to only one administration."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:130
+msgid "Employee's administration is required."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:137
+#, fuzzy
+msgid "User Role"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:139
+msgid "Select A role permission"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:143
+#, fuzzy
+msgid "Role is required"
+msgstr "Categories"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:145
+#, fuzzy
+msgid "please select an admisistrator first"
+msgstr "please select if idea studied"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:151
+#, fuzzy
+msgid "Display Language"
+msgstr "Language"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:153
+msgid "Select a language to display"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:168
+#, fuzzy
+msgid "Career Details"
+msgstr "Careers"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:174
+msgid "Type employee's triple name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:178
+msgid "Employee's name is required."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:179
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:16
+msgid "name,parent,family..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:183
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:51
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:116
+#, fuzzy
+msgid "Job Title"
+msgstr "Title"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:185
+msgid "Describe employee's position."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:189
+msgid "general manager,store manager..."
+msgstr "general manager,Warehouse  manager... "
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:194
+#, fuzzy
+msgid "Management Level"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:196
+msgid "Select the employee's level."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:200
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:62
+msgid "Employee's level is required."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:210
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:106
+#, fuzzy
+msgid "Hire Date"
+msgstr "Start Date"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:212
+msgid "Select the date of hiring"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:219
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:307
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:27
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:34
+msgid "dd/mm/yyyy"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:226
+#, fuzzy
+msgid "NickName"
+msgstr "Name"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:228
+msgid "short name for the employee"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:232
+#, fuzzy
+msgid "short name "
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:236
+#, fuzzy
+msgid "Salary"
+msgstr "Summary"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:238
+msgid "Type the salary in numbers"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:243
+msgid "500,1000..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:248
+msgid "Hours/Month"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:250
+msgid "Type the number of working hours per month."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:255
+msgid "50,60..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:255
+#, fuzzy
+msgid "Hour(s)"
+msgstr "Course"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:268
+msgid "General Info"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:274
+msgid "Enter employee's Country"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:287
+msgid "Enter employee's City"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:290
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:143
+msgid "City is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:298
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:43
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:51
+#, fuzzy
+msgid "Birth Date"
+msgstr "Start Date"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:300
+msgid "Select the employee's birth date from date picker"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:319
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:150
+#, fuzzy
+msgid "Address"
+msgstr "Add Categories"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:321
+#, fuzzy
+msgid "Enter employee's current address"
+msgstr "write your email"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:324
+msgid "block,street,home..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:331
+#, fuzzy
+msgid "Mobile no."
+msgstr "Male"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:333
+msgid "Enter a working mobile number for contact."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:337
+msgid "ex:999999999999"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:344
+#, fuzzy
+msgid "Gender"
+msgstr "send"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:346
+msgid "Choose the employee gender."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:351
+#, fuzzy
+msgid "Male"
+msgstr "Male"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/form.php:356
+msgid "Female"
+msgstr "Female"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:19
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:113
+#, fuzzy
+msgid "Managment"
+msgstr "Manage Events"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:26
+msgid "Hire date from"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:33
+msgid "Hire date to"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:44
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:114
+#: C:\wamp\www\elidClient/view/configuration/users/login.php:16
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:84
+msgid "Email"
+msgstr "Email"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:48
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:115
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:31
+#, fuzzy
+msgid "Mobile"
+msgstr "Male"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:51
+#, fuzzy
+msgid "job title"
+msgstr "title"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:55
+#, fuzzy
+msgid "Hour/Month"
+msgstr " Month"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:58
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:117
+msgid "Level"
+msgstr "Level"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:90
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:32
+msgid "Search"
+msgstr "Search"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:102
+msgid "USER ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:103
+msgid "Employee Managment"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:104
+msgid "Employee Level"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:105
+#, fuzzy
+msgid "Employee Status"
+msgstr "System Status"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:110
+#, fuzzy
+msgid "Send"
+msgstr "send"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:119
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:55
+msgid "Edit"
+msgstr "Edit"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:128
+#, fuzzy
+msgid "Recipient"
+msgstr "Requirment"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:140
+#, fuzzy
+msgid "Subject"
+msgstr "Subject"
+
+#: C:\wamp\www\elidClient/view/configuration/employees/grid.php:145
+#, fuzzy
+msgid "Send message"
+msgstr "Second Class"
+
+#: C:\wamp\www\elidClient/view/configuration/users/login.php:17
+msgid "The Login Email"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/users/login.php:29
+#, fuzzy
+msgid "The Login password"
+msgstr "Wrong Password"
+
+#: C:\wamp\www\elidClient/view/configuration/users/login.php:38
+msgid " Remember me"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/users/login.php:43
+msgid "Sign In"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/configuration/users/login.php:44
+#, fuzzy
+msgid "Forgot password?"
+msgstr "Wrong Password"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:9
+#, fuzzy
+msgid "First Name"
+msgstr "First Class"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:11
+#, fuzzy
+msgid "Enter text of your name"
+msgstr "you must enter your name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:16
+msgid "First Name... "
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:20
+#, fuzzy
+msgid "Middle Name"
+msgstr "Name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:22
+#, fuzzy
+msgid "Enter text of your grandfather name"
+msgstr "you must enter your name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:27
+#, fuzzy
+msgid "Middle Name... "
+msgstr "Name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:33
+#, fuzzy
+msgid "Enter number of your mobile"
+msgstr "write your email"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:38
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:195
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:20
+msgid "0000000"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:45
+msgid "Choose your birth date from calender"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:62
+#, fuzzy
+msgid "Father Name"
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:64
+#, fuzzy
+msgid "Enter text of your father name"
+msgstr "you must enter your name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:69
+#, fuzzy
+msgid "Father Name... "
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:73
+msgid "Family Name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:75
+#, fuzzy
+msgid "Enter text of your family name"
+msgstr "you must enter your name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:80
+msgid "Family Name... "
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:86
+#, fuzzy
+msgid "Enter valid Email format"
+msgstr "write your email"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:91
+msgid "example@mail.com "
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:95
+msgid "Job"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:97
+#, fuzzy
+msgid "Enter text of your job title"
+msgstr "write your email"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:101
+#, fuzzy
+msgid "Job Title... "
+msgstr "Title"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:110
+#, fuzzy
+msgid "Company info"
+msgstr "Company"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:114
+#, fuzzy
+msgid "Company Name"
+msgstr "Company"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:116
+msgid "Enter text of company name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:121
+#, fuzzy
+msgid "Company Name... "
+msgstr "Company"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:127
+msgid "Enter comapny Country"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:140
+msgid "Enter comapny City"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:152
+#, fuzzy
+msgid "Enter text of Company current address"
+msgstr "write your email"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:156
+msgid "Block, Street..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:165
+#, fuzzy
+msgid "Tax Number"
+msgstr "Name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:167
+msgid "Enter tax number value of company"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:172
+msgid "00000000"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:176
+msgid "ZIP code"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:178
+msgid "Enter number value of ZIP code"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:183
+msgid "0000"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:188
+#, fuzzy
+msgid "Phone"
+msgstr "Done"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:190
+msgid "Enter phone number value of company"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:204
+msgid "CUCO_Notes"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:206
+msgid "Enter text of Company Notes"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/form.php:220
+#, fuzzy
+msgid "Cancle"
+msgstr "Cancel"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:4
+#, fuzzy
+msgid "View Customer"
+msgstr "Customer"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:11
+#, fuzzy
+msgid "Customer Name"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:12
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:16
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:24
+msgid "text"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:15
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:48
+#, fuzzy
+msgid "Customer Email"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:19
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:49
+#, fuzzy
+msgid "Customer Mobile"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:23
+msgid "Company"
+msgstr "Company"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:47
+#, fuzzy
+msgid "Customer Name - Full"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:50
+#, fuzzy
+msgid "Customer Company"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:51
+msgid "Flowchart"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/customer/cusotmers/grid.php:53
+#, fuzzy
+msgid "Status ID"
+msgstr "Status"
+
+#: C:\wamp\www\elidClient/view/elements/cal.php:67
+msgid "Saturday"
+msgstr "Saturday"
+
+#: C:\wamp\www\elidClient/view/elements/cal.php:68
+#, fuzzy
+msgid "Sunday"
+msgstr "Summary"
+
+#: C:\wamp\www\elidClient/view/elements/cal.php:69
+msgid "Monday"
+msgstr "Monday"
+
+#: C:\wamp\www\elidClient/view/elements/cal.php:70
+msgid "Tuesday"
+msgstr "Tuesday"
+
+#: C:\wamp\www\elidClient/view/elements/cal.php:71
+msgid "Wednesday"
+msgstr "Wednesday"
+
+#: C:\wamp\www\elidClient/view/elements/cal.php:72
+msgid "Thursday"
+msgstr "Thursday"
+
+#: C:\wamp\www\elidClient/view/elements/cal.php:73
+msgid "Friday"
+msgstr "Friday"
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:4
+msgid "Are you sure you want to delete this row(s)?"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:15
+msgid "Are you sure you want to delete this store?"
+msgstr "Are you sure you want to delete this warehouse?"
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:26
+msgid "Are you sure you want to change store and delete all items in Export/Transaction Box?"
+msgstr "Are you sure you want to change warehouse and delete all items in Export/Transaction Box?"
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:39
+msgid "are you sure you want to clear inputs?"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:51
+msgid "are you sure you want to update row(s) status?"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:62
+msgid "what do you want to do update or delete row(s) status?"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:65
+msgid "Update"
+msgstr "Update"
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:66
+msgid "delete"
+msgstr "delete"
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:77
+msgid "Do you want to move products to another store?"
+msgstr "Do you want to move products to another warehouse?"
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:89
+msgid "Are you sure you want to delete this item and it's products?"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:100
+msgid "This will clear the Export/Tranfere/terminate Box"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsg.php:111
+msgid "Are you sure you want to export this Items?"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsgForTermination.php:5
+msgid "Are you sure , this action can't be reverted."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsgForTermination.php:9
+msgid "Document Number"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/confirmationMsgForTermination.php:23
+msgid "Terminate"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/contactsInfoControl.php:11
+#, fuzzy
+msgid "Contacts"
+msgstr "Contact"
+
+#: C:\wamp\www\elidClient/view/elements/hiddenElements.php:10
+msgid "Add Employee"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/hiddenElements.php:13
+msgid "Add Store"
+msgstr "Add Warehouse"
+
+#: C:\wamp\www\elidClient/view/elements/hiddenElements.php:16
+msgid "Add Category"
+msgstr "Add Category"
+
+#: C:\wamp\www\elidClient/view/elements/hiddenElements.php:19
+msgid "Add Product"
+msgstr "Add Product"
+
+#: C:\wamp\www\elidClient/view/elements/hiddenElements.php:23
+#, fuzzy
+msgid "Add Model"
+msgstr "Add News"
+
+#: C:\wamp\www\elidClient/view/elements/hiddenElements.php:27
+msgid "Transfer"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/hiddenElements.php:28
+#, fuzzy
+msgid "Export"
+msgstr "Expert"
+
+#: C:\wamp\www\elidClient/view/elements/hiddenElements.php:35
+#, fuzzy
+msgid "Select Action"
+msgstr "Select action"
+
+#: C:\wamp\www\elidClient/view/elements/hiddenElements.php:43
+#, fuzzy
+msgid "Deactive"
+msgstr "active"
+
+#: C:\wamp\www\elidClient/view/elements/hiddenElementsForItemsGrid.php:3
+#, fuzzy
+msgid "Filters"
+msgstr "Filter"
+
+#: C:\wamp\www\elidClient/view/elements/imageControl.php:26
+msgid "title"
+msgstr "title"
+
+#: C:\wamp\www\elidClient/view/elements/imageControl.php:29
+msgid "Caption"
+msgstr "Caption"
+
+#: C:\wamp\www\elidClient/view/elements/imageControl.php:36
+#, fuzzy
+msgid "Images"
+msgstr "Image"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:5
+#, fuzzy
+msgid "Welcome to E-Lid "
+msgstr "Welcome"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:7
+msgid "You can select your language from here"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:36
+msgid "You can see the new mail from here"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:37
+msgid "You can see the new Tasks from here "
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:43
+msgid "You can see your profile and log out from the system here"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:49
+#, fuzzy
+msgid "My Profile"
+msgstr "Male"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:50
+#, fuzzy
+msgid "Change User Info"
+msgstr "Update User Info"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:52
+#, fuzzy
+msgid "Log Out"
+msgstr "LogOut"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:90
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:138
+msgid "#"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:91
+#, fuzzy
+msgid "Sender"
+msgstr "send"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:92
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:139
+msgid "Periority"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:95
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:142
+#, fuzzy
+msgid "Time"
+msgstr "Title"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:120
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:167
+#, fuzzy
+msgid "there is no messages"
+msgstr "Second Class"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:125
+msgid "Go to inbox"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/header.php:171
+#, fuzzy
+msgid "Go to notifications"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/sideBar.php:16
+msgid "search screen title , shortcuts ..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/sideBar.php:20
+msgid "Screen title,shortcut..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/sideBar.php:29
+#: C:\wamp\www\elidClient/view/elements/cpanel/sideBar.php:34
+msgid "sidebar menu where you can easily find all pages links and where you  are"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/sideBar.php:62
+#, fuzzy
+msgid "New comments"
+msgstr "View Albums"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/sideBar.php:66
+#, fuzzy
+msgid "New articles"
+msgstr "View Categories"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/sideBar.php:70
+#, fuzzy
+msgid "New registrations"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/sideBar.php:81
+msgid "Report issues"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/sideBarCalculator.php:4
+msgid "Calculator"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/switch.php:3
+#, fuzzy
+msgid "Colors:"
+msgstr "Course"
+
+#: C:\wamp\www\elidClient/view/elements/cpanel/switch.php:14
+msgid "Backgrounds:"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/error404.php:3
+msgid "404 Page/File not found"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/error404.php:4
+msgid "The page/file you've requested has been moved or taken off the site."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/getMessageDetails.php:24
+msgid "Reply"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/getMessageDetails.php:34
+msgid "To"
+msgstr "To"
+
+#: C:\wamp\www\elidClient/view/index/home.php:2
+#, fuzzy
+msgid "Welcome in "
+msgstr "Welcome"
+
+#: C:\wamp\www\elidClient/view/index/home.php:2
+msgid "E-Lid"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:2
+#, fuzzy
+msgid "Start Tour"
+msgstr "Status"
+
+#: C:\wamp\www\elidClient/view/index/home.php:41
+msgid "no mailbox messages avaliable"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:83
+msgid "no notification messages avaliable"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:88
+#, fuzzy
+msgid "Go to notification"
+msgstr "Configurations"
+
+#: C:\wamp\www\elidClient/view/index/home.php:96
+#, fuzzy
+msgid "Reports"
+msgstr "Expert"
+
+#: C:\wamp\www\elidClient/view/index/home.php:103
+#, fuzzy
+msgid "Product"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/view/index/home.php:105
+msgid "Enter the product model."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:110
+msgid "You can filter graph By select product"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:120
+msgid "Report Year"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:122
+msgid "Select the Year of report"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:128
+msgid "yyyy"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:140
+msgid "Get Report"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:161
+msgid "e-lid have many shortcuts icon like "
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:161
+msgid " for open pop up windows"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:162
+msgid "for cancel operation or for delete action"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:163
+#, fuzzy
+msgid "for edit operation"
+msgstr "Wrong in Sending Email"
+
+#: C:\wamp\www\elidClient/view/index/home.php:164
+msgid "for redirect to terminate operation"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:165
+#, fuzzy
+msgid "for delete operation"
+msgstr "delete"
+
+#: C:\wamp\www\elidClient/view/index/home.php:166
+msgid "for add operation"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:167
+msgid "for open popup properties window"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:168
+msgid " for open popup more details window"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:169
+msgid "for open popup items window"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/home.php:178
+msgid "There is No Transaction For this Year or Product"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/issues/form.php:5
+msgid "Report an Issue"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/issues/form.php:8
+#, fuzzy
+msgid "Issue title"
+msgstr "custom title"
+
+#: C:\wamp\www\elidClient/view/index/issues/form.php:15
+#, fuzzy
+msgid "Issue title  is required."
+msgstr "System Status"
+
+#: C:\wamp\www\elidClient/view/index/issues/form.php:21
+msgid "Issue Priority"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/issues/form.php:33
+#, fuzzy
+msgid "Issue description"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/view/index/issues/form.php:39
+#, fuzzy
+msgid "Issue description  is required."
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/view/index/issues/form.php:44
+msgid "Screenshot"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/issues/form.php:46
+msgid "Upload issue's screen shot for the case , this will help to easy detect the error"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/issues/form.php:53
+#, fuzzy
+msgid "Upload Screenshot"
+msgstr "Upload Photos To"
+
+#: C:\wamp\www\elidClient/view/index/issues/form.php:71
+#, fuzzy
+msgid "report"
+msgstr "Expert"
+
+#: C:\wamp\www\elidClient/view/index/mailbox/grid.php:8
+msgid "Inbox"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/mailbox/grid.php:9
+msgid "Outbox"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/index/mailbox/grid.php:10
+#, fuzzy
+msgid "Trash"
+msgstr "Tags"
+
+#: C:\wamp\www\elidClient/view/index/mailbox/grid.php:31
+msgid "Periorty"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/layout/cpanelAdminica.php:28
+#, fuzzy
+msgid "View Option"
+msgstr "View Photos"
+
+#: C:\wamp\www\elidClient/view/layout/cpanelAdminica.php:61
+msgid "Select All"
+msgstr "Select All"
+
+#: C:\wamp\www\elidClient/view/layout/cpanelAdminica.php:63
+msgid "UnSelect All"
+msgstr "UnSelect All"
+
+#: C:\wamp\www\elidClient/view/layout/cpanelAdminica.php:68
+#, fuzzy
+msgid "-- Select  Action--"
+msgstr "-- Select --"
+
+#: C:\wamp\www\elidClient/view/layout/cpanelAdminica.php:77
+msgid "OK"
+msgstr "OK"
+
+#: C:\wamp\www\elidClient/view/layout/index.php:91
+msgid "Navigation Menu"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/layout/index.php:96
+msgid "HOME"
+msgstr "HOME"
+
+#: C:\wamp\www\elidClient/view/layout/index.php:97
+msgid "SERVICES"
+msgstr "SERVICES"
+
+#: C:\wamp\www\elidClient/view/layout/index.php:98
+msgid "PORTFOLIO"
+msgstr "PORTFOLIO"
+
+#: C:\wamp\www\elidClient/view/layout/index.php:99
+msgid "CLIENTS"
+msgstr "CLIENTS"
+
+#: C:\wamp\www\elidClient/view/layout/index.php:100
+msgid "EVENTS"
+msgstr "EVENTS"
+
+#: C:\wamp\www\elidClient/view/layout/index.php:101
+msgid "CAREERS"
+msgstr "CAREERS"
+
+#: C:\wamp\www\elidClient/view/layout/index.php:102
+msgid "ABOUT US"
+msgstr "ABOUT US"
+
+#: C:\wamp\www\elidClient/view/layout/index.php:103
+msgid "CONTACT US"
+msgstr "CONTACT US"
+
+#: C:\wamp\www\elidClient/view/layout/index.php:190
+msgid "Visit Our Blog"
+msgstr "Visit Our Blog"
+
+#: C:\wamp\www\elidClient/view/layout/index.php:195
+msgid "Subscribe to our newsletter and get the latest news and offers."
+msgstr "Subscribe to our newsletter and get the latest news and offers."
+
+#: C:\wamp\www\elidClient/view/layout/index.php:198
+msgid "subscribe"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/layout/index.php:199
+#, fuzzy
+msgid "enter your email address"
+msgstr "write your email"
+
+#: C:\wamp\www\elidClient/view/layout/login.php:13
+#: C:\wamp\www\elidClient/view/layout/loginOdl.php:250
+msgid "Login"
+msgstr "Login"
+
+#: C:\wamp\www\elidClient/view/layout/login.php:15
+msgid "Auto-login in future."
+msgstr "Auto-login in future."
+
+#: C:\wamp\www\elidClient/view/layout/loginOdl.php:267
+msgid "user name"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/layout/loginOdl.php:275
+msgid "password"
+msgstr "password"
+
+#: C:\wamp\www\elidClient/view/layout/loginOdl.php:279
+msgid "login"
+msgstr "login"
+
+#: C:\wamp\www\elidClient/view/layout/loginOdl.php:288
+msgid "save"
+msgstr "save"
+
+#: C:\wamp\www\elidClient/view/layout/loginOdl.php:294
+msgid "do you forget your password?"
+msgstr "do you forget your password?"
+
+#: C:\wamp\www\elidClient/view/layout/loginOdl.php:296
+msgid "write your email"
+msgstr "write your email"
+
+#: C:\wamp\www\elidClient/view/layout/loginOdl.php:298
+msgid "send"
+msgstr "send"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:34
+#: C:\wamp\www\elidClient/view/layout/mobile.php:80
+msgid "Services"
+msgstr "Services"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:35
+#: C:\wamp\www\elidClient/view/layout/mobile.php:125
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:36
+#: C:\wamp\www\elidClient/view/layout/mobile.php:174
+msgid "About Us"
+msgstr "About Us"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:37
+#: C:\wamp\www\elidClient/view/layout/mobile.php:160
+#: C:\wamp\www\elidClient/view/layout/mobile.php:189
+#, fuzzy
+msgid "Contact Us"
+msgstr "Contact"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:106
+#: C:\wamp\www\elidClient/view/layout/mobile.php:162
+msgid "Back"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:158
+#, fuzzy
+msgid "Visit Site"
+msgstr "Visit."
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:196
+#, fuzzy
+msgid "Contact Info"
+msgstr " Contact Info"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:198
+#, fuzzy
+msgid "Tel"
+msgstr " Tel"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:207
+#, fuzzy
+msgid "Send a Message"
+msgstr "Second Class"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:210
+#, fuzzy
+msgid "Enter your name"
+msgstr "you must enter your name"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:214
+#, fuzzy
+msgid "Enter your email address"
+msgstr "write your email"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:217
+msgid "Website"
+msgstr "Website"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:218
+#, fuzzy
+msgid "Enter your website"
+msgstr "write your email"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:221
+#, fuzzy
+msgid "Your Message"
+msgstr "Message"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:222
+msgid "What's on your mind?"
+msgstr "What's on your mind?"
+
+#: C:\wamp\www\elidClient/view/layout/mobile.php:226
+#, fuzzy
+msgid "Send Message"
+msgstr "Second Class"
+
+#: C:\wamp\www\elidClient/view/report/orderCharts.php:1
+msgid "Number Of Order : "
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/report/productCharts.php:3
+msgid "** There is No Transaction for this product **"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/itemsTransTable.php:16
+#, fuzzy
+msgid "Transaction Date from"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/view/stores/itemsTransTable.php:24
+#, fuzzy
+msgid "Transaction Date to"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/view/stores/itemsTransTable.php:37
+#: C:\wamp\www\elidClient/view/stores/itemsTransTable.php:84
+msgid "Transaction Type"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/itemsTransTable.php:51
+#: C:\wamp\www\elidClient/view/stores/itemsTransTable.php:85
+#: C:\wamp\www\elidClient/view/stores/itemsTransTable.php:87
+msgid "From"
+msgstr "From"
+
+#: C:\wamp\www\elidClient/view/stores/itemsTransTable.php:82
+msgid "Transaction ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/itemsTransTable.php:83
+msgid "Transaction Date"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/itemsTransTable.php:89
+#, fuzzy
+msgid "Type_ID"
+msgstr " Skype"
+
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:3
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:9
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:11
+msgid "Item Serial"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:17
+msgid "Item Serial is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:26
+msgid "Select Category within same store"
+msgstr "Select Category within same warehouse"
+
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:33
+#, fuzzy
+msgid "Category is Required"
+msgstr "Categories"
+
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:39
+#, fuzzy
+msgid "Production Date"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:41
+msgid "Item Production Date"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:49
+msgid "Item Produce Date is Required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:59
+#, fuzzy
+msgid "Expire Date"
+msgstr "Date"
+
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:61
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:81
+msgid "Item Expire Date"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:69
+msgid "Item Expire Date is Required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/updateItem.php:79
+msgid "Priority Export"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:8
+#, fuzzy
+msgid "Add/Edit Categories"
+msgstr "Add Categories"
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:12
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:14
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:59
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:175
+#: C:\wamp\www\elidClient/view/stores/export/form.php:203
+#, fuzzy
+msgid "Category Name"
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:14
+msgid "category name or title or number "
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:20
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:15
+msgid "title,place,name..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:28
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:30
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:29
+#, fuzzy
+msgid "Category Parent"
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:46
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:18
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:60
+#, fuzzy
+msgid "Category Type"
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:48
+#, fuzzy
+msgid "Category_Type"
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:56
+msgid "if is sub category of main category"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:68
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:24
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:64
+#, fuzzy
+msgid "Category Position"
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:70
+msgid "category position in the store"
+msgstr "category position in the warehouse"
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:77
+msgid "number,title,id..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:89
+msgid "Write a breif about the categories."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:95
+msgid "about category and content"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:97
+msgid "brief description about category and content..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:106
+msgid "Category Store Name "
+msgstr "Category Warehouse Name"
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:108
+msgid "select store contain the category"
+msgstr "select warehouse contain the category "
+
+#: C:\wamp\www\elidClient/view/stores/categories/form.php:134
+#, fuzzy
+msgid "Category Max Item "
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:7
+msgid "Filtter\tResults"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:10
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:58
+#, fuzzy
+msgid "Category #"
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:25
+msgid "number,title..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:35
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:65
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:7
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:116
+msgid "Store"
+msgstr "Warehouse"
+
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:49
+#, fuzzy
+msgid "Clear Fillters"
+msgstr "Filter"
+
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:57
+#, fuzzy
+msgid "Category id"
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:61
+#, fuzzy
+msgid "Category Type ID"
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:62
+#, fuzzy
+msgid "Parent Category"
+msgstr "Update Category"
+
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:63
+#, fuzzy
+msgid "Parent Category ID"
+msgstr "Update Category"
+
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:66
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:110
+msgid "Store ID"
+msgstr "Warehouse ID"
+
+#: C:\wamp\www\elidClient/view/stores/categories/grid.php:67
+msgid "#Items"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:10
+msgid "Add New Exchange Transaction"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:15
+msgid "From Store"
+msgstr "From Warehouse"
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:17
+msgid "source store"
+msgstr "source warehouse"
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:32
+#: C:\wamp\www\elidClient/view/stores/export/form.php:35
+#, fuzzy
+msgid "Export Date"
+msgstr "Start Date"
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:34
+#: C:\wamp\www\elidClient/view/stores/export/form.php:37
+msgid "Export transaction Date."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:54
+msgid "To Store"
+msgstr "To Warehouse"
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:56
+msgid "TO Store Name"
+msgstr "TO Warehouse Name "
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:80
+#: C:\wamp\www\elidClient/view/stores/export/form.php:66
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:47
+msgid "bill,Doc..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:89
+#: C:\wamp\www\elidClient/view/stores/export/form.php:77
+#, fuzzy
+msgid "Transaction Description"
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:91
+#: C:\wamp\www\elidClient/view/stores/export/form.php:79
+msgid "Write a breif about the export transaction."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:96
+#: C:\wamp\www\elidClient/view/stores/export/form.php:85
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:60
+msgid "any details for the transaction"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:172
+#: C:\wamp\www\elidClient/view/stores/export/form.php:200
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:111
+#, fuzzy
+msgid "Category ID"
+msgstr "Category"
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:173
+#: C:\wamp\www\elidClient/view/stores/export/form.php:201
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:112
+#, fuzzy
+msgid "Product ID"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:176
+#: C:\wamp\www\elidClient/view/stores/export/form.php:204
+#, fuzzy
+msgid "Product Name"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:211
+msgid "Transact selected items to"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:217
+msgid "Please Select Category."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/exchange/form.php:232
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:122
+msgid "Transaction"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/export/form.php:11
+msgid "Add New Export Transaction"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/export/form.php:18
+msgid "select customer to export"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/export/form.php:24
+msgid "Customer Name is required."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/export/form.php:61
+msgid "main document related to export number"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/export/form.php:96
+#, fuzzy
+msgid "Select Products"
+msgstr "View Products"
+
+#: C:\wamp\www\elidClient/view/stores/export/form.php:100
+msgid "Get Items"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/export/form.php:104
+#, fuzzy
+msgid "Products Quantity"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/view/stores/export/form.php:205
+msgid "is Expired?"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/export/form.php:207
+#, fuzzy
+msgid "To Export"
+msgstr "Expert"
+
+#: C:\wamp\www\elidClient/view/stores/export/form.php:208
+msgid "Total.Q , Min.Q"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/addItems.php:22
+msgid "Number of items"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/addItems.php:27
+#, fuzzy
+msgid "Begining serial"
+msgstr "Training interval"
+
+#: C:\wamp\www\elidClient/view/stores/import/addItems.php:32
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:88
+msgid "Prefix"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/addItems.php:50
+#: C:\wamp\www\elidClient/view/stores/import/addItems.php:92
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:92
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:51
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:120
+#, fuzzy
+msgid "Expiration Date"
+msgstr "Date"
+
+#: C:\wamp\www\elidClient/view/stores/import/addItems.php:64
+msgid "Priority export"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/addItems.php:89
+#, fuzzy
+msgid "Serial number"
+msgstr "Wrong in Delete"
+
+#: C:\wamp\www\elidClient/view/stores/import/addItems.php:94
+msgid "Important for transactions"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/addItems.php:94
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:94
+msgid "[!]"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/addItems.php:103
+msgid "barCode,slot...."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:9
+msgid "Select a store from dropdown menu"
+msgstr "Select a Warehouse from dropdown menu"
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:13
+msgid "Stroe is required."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:21
+msgid "Transaction date"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:23
+msgid "Select a transaction date from calendar"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:40
+msgid "Document number"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:42
+msgid "Write the document number"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:56
+msgid "Describe the transaction in few words."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:75
+#, fuzzy
+msgid "Add New Product"
+msgstr "Add Product"
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:86
+msgid "number of items to import in the product"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:86
+msgid "# Items"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:90
+msgid "a tool help to make incremental serial for items"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:90
+#, fuzzy
+msgid "Begin"
+msgstr "Login"
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:94
+msgid "priority to export"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:101
+#, fuzzy
+msgid "Choose Product..."
+msgstr "View Product"
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:113
+msgid "items Quantity"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importItems.php:118
+msgid "ex:10"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importWizard.php:11
+msgid "Model"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importWizard.php:17
+msgid "Add new product(s) to selected model"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/import/importWizard.php:22
+#: C:\wamp\www\elidClient/view/stores/import/importWizard.php:32
+#, fuzzy
+msgid "Import"
+msgstr "post"
+
+#: C:\wamp\www\elidClient/view/stores/import/importWizard.php:23
+msgid "Import items to choosen store"
+msgstr "Import items to choosen warehouse"
+
+#: C:\wamp\www\elidClient/view/stores/import/importWizard.php:28
+msgid "Add items to import them"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:10
+msgid "Item"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:12
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:115
+msgid "Serial Number"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:15
+msgid "ex:SC1010111"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:81
+msgid "only Show"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:83
+#, fuzzy
+msgid "terminated items"
+msgstr "Is Started"
+
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:85
+msgid "avaliable items"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:90
+#, fuzzy
+msgid "Models & Products"
+msgstr "Update Products"
+
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:94
+msgid "Stores & Categoris"
+msgstr "Warehouses & Categories"
+
+#: C:\wamp\www\elidClient/view/stores/items/grid.php:109
+#, fuzzy
+msgid "Is terminated"
+msgstr "Is Started"
+
+#: C:\wamp\www\elidClient/view/stores/modals/employeeGrid.php:22
+#: C:\wamp\www\elidClient/view/stores/modals/employeeGrid.php:42
+msgid "Employee Hours"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:4
+msgid "Brands"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:9
+msgid "Add New Brand"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:12
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:118
+#, fuzzy
+msgid "Brand Name"
+msgstr "Award Name"
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:14
+#, fuzzy
+msgid "The Brand name"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:19
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:25
+#: C:\wamp\www\elidClient/view/stores/models/propertiesForm.php:18
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:21
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:28
+msgid "Name is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:31
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:119
+#, fuzzy
+msgid "Brand Image"
+msgstr "Image"
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:33
+msgid "Upload Brand  image."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:51
+#: C:\wamp\www\elidClient/view/stores/models/form.php:304
+#: C:\wamp\www\elidClient/view/stores/products/form.php:58
+#: C:\wamp\www\elidClient/view/stores/products/form.php:154
+#, fuzzy
+msgid "Upload Image"
+msgstr "Upload More"
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:114
+msgid "Brand ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:115
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:122
+#, fuzzy
+msgid "Brand Status"
+msgstr "Status"
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:121
+msgid "Brand Image "
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/brandGrid.php:123
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:82
+#, fuzzy
+msgid "Action"
+msgstr "Actions"
+
+#: C:\wamp\www\elidClient/view/stores/models/detailsGrid.php:4
+#, fuzzy
+msgid "Model Details"
+msgstr "Details"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:8
+#, fuzzy
+msgid "Models Control"
+msgstr "Control"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:10
+#: C:\wamp\www\elidClient/view/stores/models/form.php:44
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:10
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:73
+msgid "SKU"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:12
+msgid "enter SKU number for update"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:17
+msgid "Valid Model SKU ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:45
+msgid "Enter a correct SKU ."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:50
+msgid "Correct SKU number is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:52
+msgid "ex:SC1010001"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:57
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:14
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:75
+#, fuzzy
+msgid "Model Name"
+msgstr "Name"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:59
+#, fuzzy
+msgid "model main title"
+msgstr "Image Title"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:65
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:15
+msgid "name,title,main property..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:66
+msgid "Model name is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:70
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:18
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:76
+msgid "Model Type"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:72
+msgid "select type of model"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:78
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:22
+msgid "Model Type  is required."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:85
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:28
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:85
+msgid "Model Unit"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:87
+msgid "unit for model item"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:93
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:32
+msgid "Model Unit  is required."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:103
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:40
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:80
+msgid "Brand"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:105
+msgid "model production brand"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:124
+#, fuzzy
+msgid "Customer Type"
+msgstr "Add Categories"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:126
+msgid "The customer type: trader or normal."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:132
+msgid "type of customers for model"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:139
+msgid "Models Wight"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:141
+msgid "Enter the models wight."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:147
+msgid "enter item model weight"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:148
+msgid "ex:5,25..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:154
+#, fuzzy
+msgid "Packed?"
+msgstr "Place"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:156
+msgid "Choose if the product is Model or not."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:265
+#, fuzzy
+msgid "Specific Details"
+msgstr "Details"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:272
+msgid "Write a breif about the model."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:284
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:74
+#: C:\wamp\www\elidClient/view/stores/products/form.php:38
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:76
+#, fuzzy
+msgid "Main Image"
+msgstr "Image"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:286
+msgid "Upload model main image."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:299
+#: C:\wamp\www\elidClient/view/stores/models/form.php:350
+#: C:\wamp\www\elidClient/view/stores/products/form.php:219
+msgid "Remove"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:327
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:83
+#: C:\wamp\www\elidClient/view/stores/models/propertiesForm.php:41
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:4
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:82
+#, fuzzy
+msgid "Properties"
+msgstr "Prior studies?"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:330
+#, fuzzy
+msgid "Add a property"
+msgstr "Add Category"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:336
+msgid "Add Model property"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:344
+#: C:\wamp\www\elidClient/view/stores/models/propertiesForm.php:46
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:74
+msgid "Property ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:345
+#: C:\wamp\www\elidClient/view/stores/models/propertiesForm.php:10
+#: C:\wamp\www\elidClient/view/stores/models/propertiesForm.php:48
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:13
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:77
+msgid "Property Name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:346
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:45
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:80
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:81
+#, fuzzy
+msgid "Required?"
+msgstr "Requirment"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:347
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:35
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:78
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:79
+msgid "Primary?"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:348
+#, fuzzy
+msgid "Required value"
+msgstr "Requirement"
+
+#: C:\wamp\www\elidClient/view/stores/models/form.php:349
+msgid "Primary value?"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:49
+#, fuzzy
+msgid "Customer type"
+msgstr "custom title"
+
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:53
+msgid "Customer type is required."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:72
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:73
+msgid "Model ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:78
+msgid "Total Cost"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:82
+#, fuzzy
+msgid "Customers Type"
+msgstr "Add Categories"
+
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:84
+#, fuzzy
+msgid "More Details"
+msgstr "Details"
+
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:86
+#, fuzzy
+msgid "Sale Price"
+msgstr "Service"
+
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:87
+msgid "Model Quantity"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/grid.php:88
+msgid "Product Quantity"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/propertiesForm.php:7
+msgid "Add New Property"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/propertiesForm.php:12
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:15
+msgid "The property name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:9
+msgid "Add New Model Property"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:37
+msgid "Is this property primary?."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:47
+msgid "Is this property required?."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/models/propertiesGrid.php:75
+msgid "Prop ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/moves/grid.php:4
+msgid "Moves"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/moves/grid.php:11
+#: C:\wamp\www\elidClient/view/stores/moves/grid.php:81
+#, fuzzy
+msgid "Move Number"
+msgstr "Name"
+
+#: C:\wamp\www\elidClient/view/stores/moves/grid.php:15
+#: C:\wamp\www\elidClient/view/stores/moves/grid.php:82
+#, fuzzy
+msgid "Move Date"
+msgstr "Start Date"
+
+#: C:\wamp\www\elidClient/view/stores/moves/grid.php:29
+#: C:\wamp\www\elidClient/view/stores/products/form.php:218
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:16
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:78
+#: C:\wamp\www\elidClient/view/stores/transactions/grid.php:28
+msgid "Number of Items"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/moves/grid.php:35
+#: C:\wamp\www\elidClient/view/stores/moves/grid.php:83
+#, fuzzy
+msgid "Move Type"
+msgstr "Add Categories"
+
+#: C:\wamp\www\elidClient/view/stores/moves/grid.php:80
+msgid "Move ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/moves/grid.php:84
+#: C:\wamp\www\elidClient/view/stores/transactions/grid.php:86
+msgid "Items number"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:13
+msgid "Type the product name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:19
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:13
+msgid "ex:25k flour pakage..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:20
+msgid "Product name is required"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:25
+msgid "Minmum Quantity"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:27
+msgid "Enter the minmum notify quantity of items this Product."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:33
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:24
+msgid "ex:20,50..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:40
+msgid "Upload product main image."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:91
+msgid "Product Model is required."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:98
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:29
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:79
+msgid "Gift?"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:100
+msgid "Choose if the product is Gift or Not."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:117
+#, fuzzy
+msgid "Warrenty?"
+msgstr "Parent"
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:119
+msgid "Choose if the product has Warrenty or Not."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:147
+msgid "Enter the Product Images."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:189
+msgid "Product Properties "
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:200
+#, fuzzy
+msgid "Product Gifts"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:202
+#, fuzzy
+msgid "Add Product Gift"
+msgstr "Add Product"
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:208
+#, fuzzy
+msgid " Add Product Gift "
+msgstr "Add Product"
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:216
+#, fuzzy
+msgid "Product Gift ID"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/view/stores/products/form.php:217
+msgid "Product Gift Name"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:23
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:80
+msgid "Alert Quantity"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:38
+#, fuzzy
+msgid " No"
+msgstr "No"
+
+#: C:\wamp\www\elidClient/view/stores/products/grid.php:81
+#, fuzzy
+msgid "Products' Items"
+msgstr "Products"
+
+#: C:\wamp\www\elidClient/view/stores/products/productPropertiesGrid.php:4
+msgid "Products' Properties"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/stores/employeeGrid.php:32
+#, fuzzy
+msgid "Fresh Name"
+msgstr "Start date"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:7
+msgid "Store Definitions"
+msgstr "Warehouse Definitions"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:11
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:10
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:43
+msgid "Store Name"
+msgstr "Warehouse Name"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:12
+msgid "enter store name"
+msgstr "enter warehouse name"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:25
+msgid "Store Maneger"
+msgstr "Warehouse  Maneger"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:27
+msgid "select a manager for the store"
+msgstr "select a manager for the Warehouse  "
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:40
+msgid "select,enter..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:56
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:14
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:44
+msgid "Store Type"
+msgstr "Warehouse  Type"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:57
+msgid "select type of the store"
+msgstr "select type of the Warehouse  "
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:64
+msgid "Store Type is required"
+msgstr "Warehouse Type is required"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:70
+msgid "Branch Number"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:72
+msgid "enter branch number if exsist"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:82
+msgid "Store Capacity"
+msgstr "Warehouse  Capacity"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:84
+msgid "# of itmes , distance...etc"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:98
+msgid "Store Contact"
+msgstr "Warehouse Contact"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:101
+msgid "Store Address"
+msgstr "Warehouse  Address"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:102
+msgid "store location"
+msgstr "Warehouse  location"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:107
+msgid "block,street..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:115
+msgid "Store Phone"
+msgstr "Warehouse  Phone"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:116
+msgid "phone for the store or contact person"
+msgstr "phone for the warehouse  or contact person "
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:121
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:133
+msgid "ex:9999999"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:128
+msgid "Store Fax"
+msgstr "Warehouse  Fax"
+
+#: C:\wamp\www\elidClient/view/stores/stores/form.php:132
+msgid "9999999"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:11
+msgid "title,place..."
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:21
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:46
+msgid "Store Manager"
+msgstr "Warehouse  Manager"
+
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:22
+msgid "manager name"
+msgstr "manager name"
+
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:25
+msgid "Store Branch"
+msgstr "Warehouse Branch"
+
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:41
+msgid "Store type ID"
+msgstr "Warehouse  type ID"
+
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:42
+msgid "Store#"
+msgstr "Store#"
+
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:45
+#, fuzzy
+msgid "Branch#"
+msgstr "Main Branch"
+
+#: C:\wamp\www\elidClient/view/stores/stores/grid.php:48
+#, fuzzy
+msgid "#Categories"
+msgstr "Categories"
+
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:10
+msgid "Select a store to view its items."
+msgstr "Select a warehouse  to view its items."
+
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:18
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:209
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:216
+msgid "Please Select Store."
+msgstr "Please Select Store."
+
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:126
+msgid "Item ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:136
+msgid "Product_ID"
+msgstr "Product_ID"
+
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:168
+msgid "Export selected items to"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:169
+msgid "Customer"
+msgstr "Customer"
+
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:246
+msgid "Are you sure , this action can't be reverted. you will do that:"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:247
+msgid "Items Transported to Another store"
+msgstr "Items Transported to Another warehouse  "
+
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:248
+msgid "Items exported"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/termination/grid.php:249
+msgid "Items Termiated"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/transactions/transactionsDetailsGrid.php:44
+#: C:\wamp\www\elidClient/view/stores/transactions/transactionsDetailsGrid.php:96
+msgid "Item ExpireDate"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/transactions/transactionsDetailsGrid.php:60
+#: C:\wamp\www\elidClient/view/stores/transactions/transactionsDetailsGrid.php:97
+msgid "Item ProduceDate"
+msgstr "Item ProduceDate"
+
+#: C:\wamp\www\elidClient/view/stores/transactions/transactionsDetailsGrid.php:84
+msgid "Transactions Details Items"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/stores/transactions/transactionsDetailsGrid.php:92
+msgid "Transaction Details ID"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/users/login/login.php:11
+#, fuzzy
+msgid "Login to your account"
+msgstr "wrong in twitter account"
+
+#: C:\wamp\www\elidClient/view/users/login/login.php:47
+msgid " Keep me login"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/users/profile/form.php:3
+#: C:\wamp\www\elidClient/view/users/profile/userForm.php:3
+msgid "User Profile"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/users/profile/form.php:15
+msgid "User avatar"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/users/profile/form.php:28
+#, fuzzy
+msgid "Select image"
+msgstr "Select action"
+
+#: C:\wamp\www\elidClient/view/users/profile/form.php:29
+#, fuzzy
+msgid "Change"
+msgstr "Cancel"
+
+#: C:\wamp\www\elidClient/view/users/profile/form.php:52
+#, fuzzy
+msgid "Full name"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/users/profile/form.php:61
+#, fuzzy
+msgid "Nik name"
+msgstr "Name"
+
+#: C:\wamp\www\elidClient/view/users/profile/form.php:144
+#: C:\wamp\www\elidClient/view/users/profile/userForm.php:77
+msgid "Save changes"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/users/profile/userForm.php:16
+msgid "Alternative E-mail"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/users/profile/userForm.php:22
+msgid "userMail@domain"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/users/profile/userForm.php:36
+#, fuzzy
+msgid "Old Password"
+msgstr "password"
+
+#: C:\wamp\www\elidClient/view/users/profile/userForm.php:43
+#, fuzzy
+msgid "user old password"
+msgstr "Wrong Password"
+
+#: C:\wamp\www\elidClient/view/users/profile/userForm.php:44
+#, fuzzy
+msgid "Old Password is required"
+msgstr "Passwords are not equal"
+
+#: C:\wamp\www\elidClient/view/users/profile/userForm.php:45
+#, fuzzy
+msgid "Enter your old password"
+msgstr "update password"
+
+#: C:\wamp\www\elidClient/view/users/profile/userForm.php:50
+msgid "New Password"
+msgstr "New Password"
+
+#: C:\wamp\www\elidClient/view/users/profile/userForm.php:59
+#, fuzzy
+msgid "Enter your new password"
+msgstr "you must enter your name"
+
+#: C:\wamp\www\elidClient/view/users/profile/userForm.php:71
+#, fuzzy
+msgid "Repeat password"
+msgstr "update password"
+
+#: C:\wamp\www\elidClient/view/users/roles/form.php:5
+msgid "Add a new Role"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/users/roles/form.php:16
+#, fuzzy
+msgid "Role's administration is required."
+msgstr "Description"
+
+#: C:\wamp\www\elidClient/view/users/roles/form.php:23
+#: C:\wamp\www\elidClient/view/users/roles/grid.php:18
+#, fuzzy
+msgid "Role Name"
+msgstr "Name"
+
+#: C:\wamp\www\elidClient/view/users/roles/form.php:24
+#, fuzzy
+msgid "Enter role name."
+msgstr "you must enter your name"
+
+#: C:\wamp\www\elidClient/view/users/roles/form.php:35
+#, fuzzy
+msgid "Permessions"
+msgstr "Portfolio Version"
+
+#: C:\wamp\www\elidClient/view/users/roles/form.php:41
+msgid "selected administration does not contain any permissions"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/users/roles/grid.php:31
+msgid "Role id"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/users/roles/grid.php:32
+msgid "Role App"
+msgstr ""
+
+#: C:\wamp\www\elidClient/view/users/roles/grid.php:36
+#, fuzzy
+msgid "Role name"
+msgstr "user name"
+
+#: C:\wamp\www\elidClient/view/users/roles/grid.php:37
+#, fuzzy
+msgid "Modules"
+msgstr "Male"
+
+#, fuzzy
+#~ msgid "Currencies"
+#~ msgstr "Courses"
+
+#, fuzzy
+#~ msgid "Control Employee"
+#~ msgstr "Control"
+
+#, fuzzy
+#~ msgid "Sales System Configurations"
+#~ msgstr "Configurations"
+
+#, fuzzy
+#~ msgid "Levels"
+#~ msgstr "Level"
+
+#, fuzzy
+#~ msgid "financial Details"
+#~ msgstr "Details"
+
+#, fuzzy
+#~ msgid "Product Price"
+#~ msgstr "Products"
+
+#, fuzzy
+#~ msgid "Product Video"
+#~ msgstr "Products"
+
+#, fuzzy
+#~ msgid "Numeric Details"
+#~ msgstr "Details"
+
+#, fuzzy
+#~ msgid "Unit Price"
+#~ msgstr "Edit Services"
+
+#, fuzzy
+#~ msgid "Full Load"
+#~ msgstr "Name"
+
+#~ msgid "Service"
+#~ msgstr "Service"
+
+#~ msgid "Clients"
+#~ msgstr "Clients"
+
+#~ msgid "Events"
+#~ msgstr "Events"
+
+#~ msgid "JoinUs"
+#~ msgstr "JoinUs"
+
+#~ msgid "Careers"
+#~ msgstr "Careers"
+
+#~ msgid "IdeaFund"
+#~ msgstr "IdeaFund"
+
+#~ msgid "Successfully Uploadedd"
+#~ msgstr "Successfully Uploadedd"
+
+#, fuzzy
+#~ msgid "deleted successfully"
+#~ msgstr "%s Deleted Successfully"
+
+#~ msgid "startdate is less than end date !"
+#~ msgstr "startdate is less than end date !"
+
+#, fuzzy
+#~ msgid "Error in updating because of attachments"
+#~ msgstr "Error in updateing Advertisments"
+
+#, fuzzy
+#~ msgid "error in update careers"
+#~ msgstr "Error in update categories"
+
+#, fuzzy
+#~ msgid "unknown error in updating careers"
+#~ msgstr "Error in updateing News"
+
+#, fuzzy
+#~ msgid "wrong in validate entries"
+#~ msgstr "Error in update categories"
+
+#~ msgid "please enter required data"
+#~ msgstr "please enter required data"
+
+#~ msgid "inActive"
+#~ msgstr "inActive"
+
+#~ msgid "%s Deleted Successfully"
+#~ msgstr "%s Deleted Successfully"
+
+#~ msgid "Wrong in Delete"
+#~ msgstr "Wrong in Delete"
+
+#~ msgid "%s Activated Successfully"
+#~ msgstr "%s Activated Successfully"
+
+#, fuzzy
+#~ msgid "Wrong in Activation"
+#~ msgstr " Wrong in Activation"
+
+#~ msgid "%s inActivated Successfully"
+#~ msgstr "%s inActivated Successfully"
+
+#, fuzzy
+#~ msgid "Wrong in inActivation"
+#~ msgstr " Wrong in inActivation"
+
+#~ msgid "Add Categories"
+#~ msgstr "Add Categories"
+
+#~ msgid "Categories Successfully Updated"
+#~ msgstr "Categories Successfully Updated"
+
+#, fuzzy
+#~ msgid "error in update categories"
+#~ msgstr "Error in update categories"
+
+#, fuzzy
+#~ msgid "unknown error in updating categories"
+#~ msgstr "Error in update categories"
+
+#, fuzzy
+#~ msgid "Configurations Successfully Updated"
+#~ msgstr "your info Successfully Updated"
+
+#, fuzzy
+#~ msgid "unknown error in updating configurations"
+#~ msgstr "Error in updateing Settings"
+
+#, fuzzy
+#~ msgid "ConfigStatus"
+#~ msgstr "Configurations"
+
+#, fuzzy
+#~ msgid "ConfigContact"
+#~ msgstr "Contact"
+
+#, fuzzy
+#~ msgid "ConfigAbout"
+#~ msgstr "Configurations"
+
+#, fuzzy
+#~ msgid "ContactIds"
+#~ msgstr "Contact"
+
+#, fuzzy
+#~ msgid "Customers Successfully Updated"
+#~ msgstr "Categories Successfully Updated"
+
+#, fuzzy
+#~ msgid "unknown error in updating customers"
+#~ msgstr "Error in updating Album"
+
+#, fuzzy
+#~ msgid "Add Events"
+#~ msgstr "Add News"
+
+#~ msgid "Edit Events"
+#~ msgstr "Edit Events"
+
+#, fuzzy
+#~ msgid "Events Successfully Updated"
+#~ msgstr "Categories Successfully Updated"
+
+#, fuzzy
+#~ msgid "error in update events"
+#~ msgstr "Error in updateing News"
+
+#, fuzzy
+#~ msgid "unknown error in updating events"
+#~ msgstr "Error in updateing News"
+
+#~ msgid "EventAdddate"
+#~ msgstr "Event Add date"
+
+#~ msgid "EventMainpic"
+#~ msgstr "Event Main pic"
+
+#~ msgid "EventStartdate"
+#~ msgstr "EventStartdate"
+
+#~ msgid "EventEnddate"
+#~ msgstr "Event End date"
+
+#, fuzzy
+#~ msgid "EventTitle"
+#~ msgstr "Title"
+
+#, fuzzy
+#~ msgid "EventSummary"
+#~ msgstr "Summary"
+
+#, fuzzy
+#~ msgid "EventDetails"
+#~ msgstr "Details"
+
+#~ msgid "LangId"
+#~ msgstr "Lang Id"
+
+#, fuzzy
+#~ msgid "Idea Successfully Updated"
+#~ msgstr "Categories Successfully Updated"
+
+#, fuzzy
+#~ msgid "unknown error in updating idea"
+#~ msgstr "Error in updateing News"
+
+#~ msgid "Manage Idea"
+#~ msgstr "Manage Idea"
+
+#~ msgid "Is studied"
+#~ msgstr "Is studied"
+
+#, fuzzy
+#~ msgid "ImageTitle"
+#~ msgstr "Image Title"
+
+#~ msgid "ImageCaption"
+#~ msgstr "ImageCaption"
+
+#, fuzzy
+#~ msgid "Dallata Qode :: Welcome"
+#~ msgstr " Welcome"
+
+#, fuzzy
+#~ msgid "Dallata Qode :: Services"
+#~ msgstr "Services"
+
+#, fuzzy
+#~ msgid "Dallata Qode :: Portfolio"
+#~ msgstr "Portfolio"
+
+#~ msgid "Mail Already Exists"
+#~ msgstr "Mail Already Exists"
+
+#, fuzzy
+#~ msgid "Added Successfully"
+#~ msgstr "%s Deleted Successfully"
+
+#, fuzzy
+#~ msgid "Error in addition"
+#~ msgstr "Error in authintication"
+
+#~ msgid "you have submit a near requst please try again later Sorry!"
+#~ msgstr "you have submit a near requst please try again later Sorry!"
+
+#, fuzzy
+#~ msgid "Sent Sucessfully"
+#~ msgstr "%s Deleted Successfully"
+
+#~ msgid "Dallata Qode :: Join Us"
+#~ msgstr "Dallata Qode :: Join Us"
+
+#, fuzzy
+#~ msgid "you must select education level"
+#~ msgstr "you must select at least one item"
+
+#, fuzzy
+#~ msgid "you must select field"
+#~ msgstr "you must select at least one item"
+
+#~ msgid "the attachment file is to big"
+#~ msgstr "the attachment file is to big"
+
+#~ msgid ""
+#~ "you have enter wrong file extintion please try one of this (pdf, doc, "
+#~ "zip , rar)"
+#~ msgstr ""
+#~ "you have enter wrong file extintion please try one of this (pdf, doc, "
+#~ "zip , rar)"
+
+#~ msgid "wrong in submitting , please ensure fields filled correctly"
+#~ msgstr "wrong in submitting , please ensure fields filled correctly"
+
+#~ msgid "Dallata Qode :: Clients"
+#~ msgstr "Dallata Qode :: Clients"
+
+#~ msgid "Dallata Qode :: Idea"
+#~ msgstr "Dallata Qode :: Idea"
+
+#~ msgid "please enter idea title"
+#~ msgstr "please enter idea title"
+
+#, fuzzy
+#~ msgid "wrong field entered!"
+#~ msgstr "Wrong in Delete"
+
+#~ msgid "please enter a valid amount between (200$ to 20000$)"
+#~ msgstr "please enter a valid amount between (200$ to 20000$)"
+
+#~ msgid "please enter idea funding amount between (200$ to 20000$)"
+#~ msgstr "please enter idea funding amount between (200$ to 20000$)"
+
+#~ msgid "please enter ownership name"
+#~ msgstr "please enter ownership name"
+
+#~ msgid "wrong in submitting , please ensure from entered fields"
+#~ msgstr "wrong in submitting , please ensure from entered fields"
+
+#~ msgid "wrong categories entered!"
+#~ msgstr "wrong categories entered!"
+
+#~ msgid "Dallata Qode :: Events"
+#~ msgstr "Dallata Qode :: Events"
+
+#~ msgid "Dallata Qode :: Careers"
+#~ msgstr "Dallata Qode :: Careers"
+
+#, fuzzy
+#~ msgid "Dallata Qode :: About Us"
+#~ msgstr "About Us"
+
+#~ msgid "Dallata Qode :: Contact Us"
+#~ msgstr "Dallata Qode :: Contact Us"
+
+#~ msgid "wrong in mobile number"
+#~ msgstr "wrong in mobile number"
+
+#~ msgid "please enter a valid mobile number"
+#~ msgstr "please enter a valid mobile number"
+
+#~ msgid "please enter a valid email"
+#~ msgstr "please enter a valid email"
+
+#~ msgid "wrong in facebook account"
+#~ msgstr "wrong in facebook account"
+
+#~ msgid "please enter a valid facebook link"
+#~ msgstr "please enter a valid facebook link"
+
+#~ msgid "please enter a valid twitter link"
+#~ msgstr "please enter a valid twitter link"
+
+#~ msgid "wrong in linkedIn account"
+#~ msgstr "wrong in linkedIn account"
+
+#~ msgid "please enter a valid linkedIn link"
+#~ msgstr "please enter a valid linkedIn link"
+
+#~ msgid "View joinMembers"
+#~ msgstr "View joinMembers"
+
+#, fuzzy
+#~ msgid "Add JoinMembers"
+#~ msgstr "Add Joined Members"
+
+#~ msgid "Edit JoinMembers"
+#~ msgstr "Edit JoinMembers"
+
+#, fuzzy
+#~ msgid "JoinMembers Successfully Updated"
+#~ msgstr "Categories Successfully Updated"
+
+#, fuzzy
+#~ msgid "unknown error in updating joinMembers"
+#~ msgstr "Error in updateing News"
+
+#, fuzzy
+#~ msgid "Manage JoinMembers"
+#~ msgstr "Manage Joined Members"
+
+#~ msgid "Experience"
+#~ msgstr "Experience"
+
+#, fuzzy
+#~ msgid "View langs"
+#~ msgstr "View Albums"
+
+#, fuzzy
+#~ msgid "Add Langs"
+#~ msgstr "Add Categories"
+
+#~ msgid "Edit Langs"
+#~ msgstr "Edit Langs"
+
+#, fuzzy
+#~ msgid "Langs Successfully Updated"
+#~ msgstr "Categories Successfully Updated"
+
+#, fuzzy
+#~ msgid "unknown error in updating langs"
+#~ msgstr "Error in updateing Settings"
+
+#~ msgid "Manage Langs"
+#~ msgstr "Manage Langs"
+
+#, fuzzy
+#~ msgid "LangName"
+#~ msgstr "Language"
+
+#, fuzzy
+#~ msgid "Contact List"
+#~ msgstr "Contact Us"
+
+#, fuzzy
+#~ msgid "Message Successfully sent to lists"
+#~ msgstr "Image Was Successfully Deleted"
+
+#~ msgid "Error Sending Message to lists"
+#~ msgstr "Error Sending Message to lists"
+
+#~ msgid "Add Lists"
+#~ msgstr "Add Lists"
+
+#~ msgid "Edit Lists"
+#~ msgstr "Edit Lists"
+
+#, fuzzy
+#~ msgid "Lists Successfully Updated"
+#~ msgstr "Categories Successfully Updated"
+
+#, fuzzy
+#~ msgid "unknown error in updating lists"
+#~ msgstr "Error in updateing Advertisments"
+
+#, fuzzy
+#~ msgid "ListEmail"
+#~ msgstr "Email"
+
+#~ msgid "ListMobile"
+#~ msgstr "ListMobile"
+
+#, fuzzy
+#~ msgid "ListStatus"
+#~ msgstr "Status"
+
+#~ msgid "ListLastdate"
+#~ msgstr "List Last date"
+
+#~ msgid "ListAdddate"
+#~ msgstr "List Add date"
+
+#~ msgid "ListType"
+#~ msgstr "List Type"
+
+#~ msgid "MemberId"
+#~ msgstr "Member Id"
+
+#~ msgid "View portfolioAttach"
+#~ msgstr "View portfolioAttach"
+
+#~ msgid "Add PortfolioAttach"
+#~ msgstr "Add PortfolioAttach"
+
+#~ msgid "Edit PortfolioAttach"
+#~ msgstr "Edit PortfolioAttach"
+
+#, fuzzy
+#~ msgid "PortfolioAttach Successfully Updated"
+#~ msgstr "your info Successfully Updated"
+
+#~ msgid "unknown error in updating portfolioAttach"
+#~ msgstr "unknown error in updating portfolioAttach"
+
+#~ msgid "Manage PortfolioAttach"
+#~ msgstr "Manage PortfolioAttach"
+
+#~ msgid "PortfolioId"
+#~ msgstr "Portfolio Id"
+
+#~ msgid "AttachId"
+#~ msgstr "Attach Id"
+
+#, fuzzy
+#~ msgid "View portfolioCategories"
+#~ msgstr "View Categories"
+
+#, fuzzy
+#~ msgid "Add PortfolioCategories"
+#~ msgstr "Add Categories"
+
+#, fuzzy
+#~ msgid "Edit PortfolioCategories"
+#~ msgstr "Add Categories"
+
+#, fuzzy
+#~ msgid "PortfolioCategories Successfully Updated"
+#~ msgstr "Categories Successfully Updated"
+
+#, fuzzy
+#~ msgid "unknown error in updating portfolioCategories"
+#~ msgstr "Error in update categories"
+
+#~ msgid "Manage PortfolioCategories"
+#~ msgstr "Manage PortfolioCategories"
+
+#~ msgid "View portfolioImages"
+#~ msgstr "View portfolioImages"
+
+#~ msgid "Add PortfolioImages"
+#~ msgstr "Add PortfolioImages"
+
+#~ msgid "Edit PortfolioImages"
+#~ msgstr "Edit PortfolioImages"
+
+#, fuzzy
+#~ msgid "PortfolioImages Successfully Updated"
+#~ msgstr "Categories Successfully Updated"
+
+#, fuzzy
+#~ msgid "unknown error in updating portfolioImages"
+#~ msgstr "Error in updateing Advertisments"
+
+#~ msgid "Manage PortfolioImages"
+#~ msgstr "Manage PortfolioImages"
+
+#, fuzzy
+#~ msgid "ImageId"
+#~ msgstr "Image"
+
+#, fuzzy
+#~ msgid "View portfolios"
+#~ msgstr "View Photos"
+
+#, fuzzy
+#~ msgid "Portfolios Successfully Updated"
+#~ msgstr "your info Successfully Updated"
+
+#, fuzzy
+#~ msgid "error in updating tr portfolios"
+#~ msgstr "Error in updateing Settings"
+
+#, fuzzy
+#~ msgid "unknown error in updating portfolios"
+#~ msgstr "Error in updateing Settings"
+
+#~ msgid "Manage Portfolios"
+#~ msgstr "Manage Portfolios"
+
+#~ msgid "PortfolioAttach"
+#~ msgstr "Portfolio Attach"
+
+#~ msgid "PortfolioLink"
+#~ msgstr "Portfolio Link"
+
+#~ msgid "PortfolioStatus"
+#~ msgstr "Portfolio Status"
+
+#~ msgid "PortfolioMainimage"
+#~ msgstr "Portfolio Mainimage"
+
+#~ msgid "PortfolioAdddate"
+#~ msgstr "Portfolio Add date"
+
+#~ msgid "PortfolioVersion"
+#~ msgstr "Portfolio Version"
+
+#, fuzzy
+#~ msgid "Add Services"
+#~ msgstr "Add Categories"
+
+#, fuzzy
+#~ msgid "Services Successfully Updated"
+#~ msgstr "Categories Successfully Updated"
+
+#, fuzzy
+#~ msgid "error in update services"
+#~ msgstr "Error in update categories"
+
+#, fuzzy
+#~ msgid "unknown error in updating services"
+#~ msgstr "Error in updateing Advertisments"
+
+#~ msgid "Manage Services"
+#~ msgstr "Manage Services"
+
+#, fuzzy
+#~ msgid "ServiceStatus"
+#~ msgstr "Status"
+
+#~ msgid "ServiceTitle"
+#~ msgstr "Service Title"
+
+#~ msgid "ServiceTags"
+#~ msgstr "Service Tags"
+
+#~ msgid "Wrong Password"
+#~ msgstr "Wrong Password"
+
+#~ msgid "You are not an admin"
+#~ msgstr "You are not an admin"
+
+#~ msgid "Wrong Username"
+#~ msgstr "Wrong Username"
+
+#~ msgid "Your Email Had Been Successfully Sent"
+#~ msgstr "Your Email Had Been Successfully Sent"
+
+#~ msgid "Wrong in Sending Email"
+#~ msgstr "Wrong in Sending Email"
+
+#~ msgid "Wrong Email or username"
+#~ msgstr "Wrong Email or username"
+
+#~ msgid "Email was sent before"
+#~ msgstr "Email was sent before"
+
+#, fuzzy
+#~ msgid "you must confirm password correctly"
+#~ msgstr "you must confirm password"
+
+#~ msgid "your info Successfully Updated"
+#~ msgstr "your info Successfully Updated"
+
+#~ msgid "wrong in updating password"
+#~ msgstr "wrong in updating password"
+
+#~ msgid "College"
+#~ msgstr "College"
+
+#~ msgid "Bachlor"
+#~ msgstr "Bachlor"
+
+#~ msgid "MS Degree"
+#~ msgstr "MS Degree"
+
+#~ msgid "Web Developer"
+#~ msgstr "Web Developer"
+
+#~ msgid "Development Idea Type"
+#~ msgstr "Development Idea Type"
+
+#, fuzzy
+#~ msgid "Twitter"
+#~ msgstr " Twitter"
+
+#, fuzzy
+#~ msgid "Facebook"
+#~ msgstr " FaceBook"
+
+#~ msgid "Google"
+#~ msgstr "Google"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Other"
+#~ msgstr "Other"
+
+#, fuzzy
+#~ msgid "mailList"
+#~ msgstr "Email"
+
+#~ msgid "mobileList"
+#~ msgstr "mobile List"
+
+#~ msgid "memberList"
+#~ msgstr "member List"
+
+#, fuzzy
+#~ msgid "View Careers"
+#~ msgstr "View Categories"
+
+#, fuzzy
+#~ msgid "Add Client"
+#~ msgstr "Add Advertisment"
+
+#, fuzzy
+#~ msgid "View Clients"
+#~ msgstr "View Categories"
+
+#~ msgid "Requests"
+#~ msgstr "Requests"
+
+#~ msgid "Join Memmbers"
+#~ msgstr "Join Memmbers"
+
+#~ msgid "Send Email To Mail List"
+#~ msgstr "Send Email To Mail List"
+
+#~ msgid "Action on create"
+#~ msgstr "Action on create"
+
+#, fuzzy
+#~ msgid "AttachTitle"
+#~ msgstr "Title"
+
+#~ msgid "AttachName"
+#~ msgstr "Attach Name"
+
+#~ msgid "End date"
+#~ msgstr "End date"
+
+#~ msgid "Training Interval"
+#~ msgstr "Training Interval"
+
+#~ msgid "please enter client name"
+#~ msgstr "please enter client name"
+
+#, fuzzy
+#~ msgid "Config_About"
+#~ msgstr "Configurations"
+
+#, fuzzy
+#~ msgid "Config_Contact"
+#~ msgstr "Contact"
+
+#, fuzzy
+#~ msgid "ContactType"
+#~ msgstr "Contact"
+
+#~ msgid "ContactGenerictype"
+#~ msgstr "Contact Generic type"
+
+#, fuzzy
+#~ msgid "ContactValue"
+#~ msgstr "Contact"
+
+#, fuzzy
+#~ msgid "Link"
+#~ msgstr "Login"
+
+#~ msgid "Attachments"
+#~ msgstr "Attachments"
+
+#~ msgid "Estimation Load Time: Server Time("
+#~ msgstr "Estimation Load Time: Server Time("
+
+#~ msgid "Summary"
+#~ msgstr "Summary"
+
+#~ msgid "IdeaOwnership"
+#~ msgstr "IdeaOwnership"
+
+#~ msgid "Is Studied"
+#~ msgstr "Is Studied"
+
+#, fuzzy
+#~ msgid "IdeaId"
+#~ msgstr "Ideas"
+
+#~ msgid "Due to"
+#~ msgstr "Due to"
+
+#, fuzzy
+#~ msgid " New"
+#~ msgstr "News"
+
+#~ msgid "&lt;"
+#~ msgstr "&lt;"
+
+#~ msgid "&gt;"
+#~ msgstr "&gt;"
+
+#~ msgid "SEND MESSAGE"
+#~ msgstr "SEND MESSAGE"
+
+#, fuzzy
+#~ msgid "PHONE"
+#~ msgstr "HOME"
+
+#~ msgid "EMAIL"
+#~ msgstr "EMAIL"
+
+#~ msgid "Ideas Funding"
+#~ msgstr "Ideas Funding"
+
+#~ msgid "Your idea's name :)"
+#~ msgstr "Your idea's name :)"
+
+#~ msgid "Describtion"
+#~ msgstr "Describtion"
+
+#~ msgid "Talk about your idea."
+#~ msgstr "Talk about your idea."
+
+#~ msgid "Started?"
+#~ msgstr "Started?"
+
+#~ msgid "Idea's owner"
+#~ msgstr "Idea's owner"
+
+#~ msgid "Idea field"
+#~ msgstr "Idea field"
+
+#~ msgid "Fund Amount ?"
+#~ msgstr "Fund Amount ?"
+
+#, fuzzy
+#~ msgid "facebook"
+#~ msgstr " FaceBook"
+
+#, fuzzy
+#~ msgid "twitter"
+#~ msgstr " Twitter"
+
+#~ msgid "linkedIn"
+#~ msgstr "linkedIn"
+
+#~ msgid "SEND"
+#~ msgstr "SEND"
+
+#~ msgid "Join Us"
+#~ msgstr "Join Us"
+
+#~ msgid "Field of expertise"
+#~ msgstr "Field of expertise"
+
+#~ msgid "Education level"
+#~ msgstr "Education level"
+
+#~ msgid "Courses"
+#~ msgstr "Courses"
+
+#~ msgid "What skills you have?"
+#~ msgstr "What skills you have?"
+
+#~ msgid "Your CV"
+#~ msgstr "Your CV"
+
+#~ msgid "Due"
+#~ msgstr "Due"
+
+#~ msgid "Start Date: "
+#~ msgstr "Start Date: "
+
+#~ msgid "Training: "
+#~ msgstr "Training: "
+
+#~ msgid "Salary: "
+#~ msgstr "Salary: "
+
+#~ msgid " $"
+#~ msgstr " $"
+
+#~ msgid "field: "
+#~ msgstr "field: "
+
+#~ msgid "End Date: "
+#~ msgstr "End Date: "
+
+#~ msgid "search"
+#~ msgstr "search"
+
+#~ msgid "PortfolioTitle"
+#~ msgstr "PortfolioTitle"
+
+#~ msgid "PortfolioCompany"
+#~ msgstr "PortfolioCompany"
+
+#, fuzzy
+#~ msgid "PortfolioSummary"
+#~ msgstr "Summary"
+
+#~ msgid "Pic"
+#~ msgstr "Pic"
+
+#~ msgid "Previous Password"
+#~ msgstr "Previous Password"
+
+#~ msgid "Added Successfully to Mail list"
+#~ msgstr "Added Successfully to Mail list"
+
+#~ msgid "CV"
+#~ msgstr "CV"
+
+#~ msgid "Member CV"
+#~ msgstr "Member CV"
+
+#~ msgid "View Advertisment"
+#~ msgstr "View Advertisment"
+
+#~ msgid "add"
+#~ msgstr "add"
+
+#~ msgid "cancel"
+#~ msgstr "cancel"
+
+#~ msgid "Update Advertisment"
+#~ msgstr "Update Advertisment"
+
+#~ msgid "Advertisment Was Updated Successfully"
+#~ msgstr "Advertisment Was Updated Successfully"
+
+#~ msgid "Add Album"
+#~ msgstr "Add Album"
+
+#~ msgid "Update Album"
+#~ msgstr "Update Album"
+
+#~ msgid "Album Was Updated Successfully"
+#~ msgstr "Album Was Updated Successfully"
+
+#~ msgid "view albums"
+#~ msgstr "view albums"
+
+#~ msgid "Add Albums"
+#~ msgstr "Add Albums"
+
+#~ msgid "in active"
+#~ msgstr "in active"
+
+#~ msgid "Update Categorty"
+#~ msgstr "Update Categorty"
+
+#~ msgid "view Category"
+#~ msgstr "view Category"
+
+#~ msgid "Update Settings"
+#~ msgstr "Update Settings"
+
+#~ msgid "Settings Was Updated Successfully"
+#~ msgstr "Settings Was Updated Successfully"
+
+#~ msgid "you must define the album for the pictures"
+#~ msgstr "you must define the album for the pictures"
+
+#~ msgid "Albums"
+#~ msgstr "Albums"
+
+#~ msgid "Wrong in uploading pictures"
+#~ msgstr "Wrong in uploading pictures"
+
+#~ msgid "View Pictures of"
+#~ msgstr "View Pictures of"
+
+#~ msgid "albums"
+#~ msgstr "albums"
+
+#~ msgid "Home | Al-Heba "
+#~ msgstr "Home | Al-Heba "
+
+#~ msgid "AL-Heba| News"
+#~ msgstr "AL-Heba| News"
+
+#~ msgid "Alheb| Albums"
+#~ msgstr "Alheb| Albums"
+
+#~ msgid "Alheba-Photos"
+#~ msgstr "Alheba-Photos"
+
+#~ msgid "AL-Heba| About US"
+#~ msgstr "AL-Heba| About US"
+
+#~ msgid "AL-Heba| Contact US"
+#~ msgstr "AL-Heba| Contact US"
+
+#~ msgid "Email sent successfully"
+#~ msgstr "Email sent successfully"
+
+#~ msgid "Email sent wrong"
+#~ msgstr "Email sent wrong"
+
+#~ msgid "AL-Heba| Products"
+#~ msgstr "AL-Heba| Products"
+
+#~ msgid "News Was Updated Successfully"
+#~ msgstr "News Was Updated Successfully"
+
+#~ msgid "Products Was Updated Successfully"
+#~ msgstr "Products Was Updated Successfully"
+
+#~ msgid "Error in updateing Product"
+#~ msgstr "Error in updateing Product"
+
+#~ msgid "Exceeded login times"
+#~ msgstr "Exceeded login times"
+
+#~ msgid "Third Class"
+#~ msgstr "Third Class"
+
+#~ msgid "Place 1"
+#~ msgstr "Place 1"
+
+#~ msgid "Place 2"
+#~ msgstr "Place 2"
+
+#~ msgid "Best"
+#~ msgstr "Best"
+
+#~ msgid "Advertisments"
+#~ msgstr "Advertisments"
+
+#~ msgid "View Advertisments"
+#~ msgstr "View Advertisments"
+
+#~ msgid "Results %s - %s out of %s"
+#~ msgstr "Results %s - %s out of %s"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Result"
+#~ msgstr "Result"
+
+#~ msgid " Footer Links"
+#~ msgstr " Footer Links"
+
+#~ msgid "Upload Box"
+#~ msgstr "Upload Box"
+
+#~ msgid "Update Password"
+#~ msgstr "Update Password"
+
+#~ msgid "Site"
+#~ msgstr "Site"
+
+#~ msgid "No Result"
+#~ msgstr "No Result"
+
+#~ msgid "Get in touch.."
+#~ msgstr "Get in touch.."
+
+#~ msgid "Tel."
+#~ msgstr "Tel."
+
+#~ msgid "Email."
+#~ msgstr "Email."
+
+#~ msgid "Featured Products"
+#~ msgstr "Featured Products"
+
+#~ msgid "Latest News"
+#~ msgstr "Latest News"
+
+#~ msgid "Page Top"
+#~ msgstr "Page Top"
+
+#~ msgid "Search this site..."
+#~ msgstr "Search this site..."
+
+#~ msgid "Al Heba Importing &copy;2012 copyrights reserved. Powered by"
+#~ msgstr "Al Heba Importing &copy;2012 copyrights reserved. Powered by"
+
+#~ msgid "DCG Ltd."
+#~ msgstr "DCG Ltd."
+
+#~ msgid "عربي"
+#~ msgstr "عربي"
+
+#~ msgid "summary"
+#~ msgstr "summary"
+
+#~ msgid "keywords"
+#~ msgstr "keywords"
+
+#~ msgid "Quality"
+#~ msgstr "Quality"

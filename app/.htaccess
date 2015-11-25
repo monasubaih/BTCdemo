@@ -1,0 +1,20 @@
+
+	RewriteEngine On
+
+	#REWRITE RULES
+	#---------------------
+
+	#RULE REWRITE ROUTED ACCESS TO ASSETS (IMG, CSS, FILES, JS, FAVICON) 
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{URL} !-d
+	RewriteRule ^(css|js|vendor|upload|localization|cash|charts|uploads|favicon.ico)/(.*)$ webroot/$1/$2 [L]
+	RewriteRule ^placeholder/([^/]+)?/(.*)$ webroot/placeholder/viewPalceHolder.php?rt=$1/$2 [L]
+	
+	
+
+	#Route to Main file
+	RewriteCond %{REQUEST_FILENAME} !-f
+	RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{URL} !-d
+	RewriteRule ^([^/]+)?/(.*)$ webroot/index.php?rt=$1/$2 [L]

@@ -1,0 +1,44 @@
+.pointer {
+    cursor: pointer;	
+
+}
+
+.required{
+    color:#BF0005;
+}
+
+.nav-header-sideBar{
+
+    display: block;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 20px;
+    padding: 0;	
+
+}
+
+.custom-icon{
+    list-style: none outside none;
+    display: inline-block;
+    height: 16px;
+    line-height: 16px;	
+    padding:2px;
+    width:16px;
+}
+.close-email-icon{
+    background-image: url("images/icons/email.png") ;background-repeat: no-repeat;
+
+}
+.open-email-icon{
+    background-image: url("images/icons/email_open.png");background-repeat: no-repeat;
+}
+/* 
+#dt_grid{
+        table-layout: fixed !important;
+        word-wrap:break-word !important;
+        margin: 0 auto !important;
+        width: 100% !important;
+        clear: both !important;
+        border-collapse: collapse !important
+
+} */
